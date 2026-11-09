@@ -1,0 +1,62 @@
+{
+  "bank_first_heuristic": {
+    "completion": 256,
+    "cases": 256,
+    "mean_discounted_return": 8.342,
+    "mean_actions": 5.164
+  },
+  "deep_q": {
+    "completion": 256,
+    "cases": 256,
+    "mean_discounted_return": 8.392,
+    "mean_actions": 5.164
+  },
+  "imitation": {
+    "completion": 256,
+    "cases": 256,
+    "mean_discounted_return": 8.136,
+    "mean_actions": 5.164
+  },
+  "learned_transition_search": {
+    "completion": 256,
+    "cases": 256,
+    "mean_discounted_return": 6.186,
+    "mean_actions": 5.676
+  },
+  "evolved_rules": {
+    "completion": 256,
+    "cases": 256,
+    "mean_discounted_return": 8.437,
+    "mean_actions": 5.164
+  },
+  "known_model_search": {
+    "completion": 256,
+    "cases": 256,
+    "mean_discounted_return": 8.437,
+    "mean_actions": 5.164
+  },
+  "learned_transition_count": 4095,
+  "common_successful_workflows": [
+    [
+      "gather > gather > train > quest",
+      42
+    ],
+    [
+      "gather > gather > train > gather > quest",
+      35
+    ],
+    [
+      "gather > train > quest",
+      29
+    ],
+    [
+      "withdraw > gather > train > quest",
+      20
+    ],
+    [
+      "gather > withdraw > train > gather > quest",
+      19
+    ]
+  ],
+  "scope": "Synthetic supply decisions. Test RNG seeds are held out, with overlapping discrete state values possible. No live-policy promotion."
+}

@@ -1,0 +1,278 @@
+{
+  "base": "Qwen/Qwen3.5-0.8B",
+  "device": "cpu",
+  "dtype": "bfloat16",
+  "trainRows": 149,
+  "heldoutRows": 38,
+  "epochs": 1,
+  "steps": 75,
+  "elapsedSeconds": 755.4213819503784,
+  "baseline": {
+    "loss": 2.3757628202438354,
+    "teacher_forced_token_accuracy": 0.5857142857142857,
+    "rows": 38,
+    "generated_exact_match": {
+      "rows": 12,
+      "correct": 0,
+      "cases": [
+        {
+          "group": "cook_sardine",
+          "expected": {
+            "action": "WITHDRAW_ITEMS"
+          },
+          "actual": {
+            "action": "CODE"
+          },
+          "correct": false
+        },
+        {
+          "group": "cook_sardine",
+          "expected": {
+            "action": "WITHDRAW_ITEMS"
+          },
+          "actual": {
+            "action": "CODE"
+          },
+          "correct": false
+        },
+        {
+          "group": "make_wine",
+          "expected": {
+            "action": "BUY_INPUT"
+          },
+          "actual": {
+            "action": "CODE"
+          },
+          "correct": false
+        },
+        {
+          "group": "leather_chaps",
+          "expected": {
+            "action": "TRAIN_LEVEL"
+          },
+          "actual": {
+            "action": "CODE"
+          },
+          "correct": false
+        },
+        {
+          "group": "leather_chaps",
+          "expected": {
+            "action": "EXECUTE"
+          },
+          "actual": {
+            "action": "CODE"
+          },
+          "correct": false
+        },
+        {
+          "group": "smelt_mithril",
+          "expected": {
+            "action": "WITHDRAW_ITEMS"
+          },
+          "actual": {
+            "action": "CODE"
+          },
+          "correct": false
+        },
+        {
+          "group": "smelt_mithril",
+          "expected": {
+            "action": "WITHDRAW_ITEMS"
+          },
+          "actual": {
+            "action": "CODE"
+          },
+          "correct": false
+        },
+        {
+          "group": "craft_body",
+          "expected": {
+            "action": "BUY_INPUT"
+          },
+          "actual": {
+            "action": "CODE"
+          },
+          "correct": false
+        },
+        {
+          "group": "cut_ruby",
+          "expected": {
+            "action": "TRAIN_LEVEL"
+          },
+          "actual": {
+            "action": "CODE"
+          },
+          "correct": false
+        },
+        {
+          "group": "cut_ruby",
+          "expected": {
+            "action": "EXECUTE"
+          },
+          "actual": {
+            "action": "CODE"
+          },
+          "correct": false
+        },
+        {
+          "group": "forge_steel",
+          "expected": {
+            "action": "WITHDRAW_ITEMS"
+          },
+          "actual": {
+            "action": "CODE"
+          },
+          "correct": false
+        },
+        {
+          "group": "forge_steel",
+          "expected": {
+            "action": "WITHDRAW_ITEMS"
+          },
+          "actual": {
+            "action": "CODE"
+          },
+          "correct": false
+        }
+      ]
+    }
+  },
+  "tuned": {
+    "loss": 0.32274225303952236,
+    "teacher_forced_token_accuracy": 0.9285714285714286,
+    "rows": 38,
+    "generated_exact_match": {
+      "rows": 12,
+      "correct": 6,
+      "cases": [
+        {
+          "group": "cook_sardine",
+          "expected": {
+            "action": "WITHDRAW_ITEMS"
+          },
+          "actual": {
+            "action": "BUY_INPUT"
+          },
+          "correct": false
+        },
+        {
+          "group": "cook_sardine",
+          "expected": {
+            "action": "WITHDRAW_ITEMS"
+          },
+          "actual": {
+            "action": "REPLACE_INPUT"
+          },
+          "correct": false
+        },
+        {
+          "group": "make_wine",
+          "expected": {
+            "action": "BUY_INPUT"
+          },
+          "actual": {
+            "action": "BUY_INPUT"
+          },
+          "correct": true
+        },
+        {
+          "group": "leather_chaps",
+          "expected": {
+            "action": "TRAIN_LEVEL"
+          },
+          "actual": {
+            "action": "TRAIN_LEVEL"
+          },
+          "correct": true
+        },
+        {
+          "group": "leather_chaps",
+          "expected": {
+            "action": "EXECUTE"
+          },
+          "actual": {
+            "action": "EXECUTE"
+          },
+          "correct": true
+        },
+        {
+          "group": "smelt_mithril",
+          "expected": {
+            "action": "WITHDRAW_ITEMS"
+          },
+          "actual": {
+            "action": "Sell"
+          },
+          "correct": false
+        },
+        {
+          "group": "smelt_mithril",
+          "expected": {
+            "action": "WITHDRAW_ITEMS"
+          },
+          "actual": {
+            "action": "REPLACE_INPUT"
+          },
+          "correct": false
+        },
+        {
+          "group": "craft_body",
+          "expected": {
+            "action": "BUY_INPUT"
+          },
+          "actual": {
+            "action": "BUY_INPUT"
+          },
+          "correct": true
+        },
+        {
+          "group": "cut_ruby",
+          "expected": {
+            "action": "TRAIN_LEVEL"
+          },
+          "actual": {
+            "action": "TRAIN_LEVEL"
+          },
+          "correct": true
+        },
+        {
+          "group": "cut_ruby",
+          "expected": {
+            "action": "EXECUTE"
+          },
+          "actual": {
+            "action": "EXECUTE"
+          },
+          "correct": true
+        },
+        {
+          "group": "forge_steel",
+          "expected": {
+            "action": "WITHDRAW_ITEMS"
+          },
+          "actual": {
+            "action": "Donate"
+          },
+          "correct": false
+        },
+        {
+          "group": "forge_steel",
+          "expected": {
+            "action": "WITHDRAW_ITEMS"
+          },
+          "actual": {
+            "action": "REPLACE"
+          },
+          "correct": false
+        }
+      ]
+    }
+  },
+  "trainableHashBefore": "bd132252f84194a00bea88c40ed6e6c6f8e69d0eadf2ac1cac3a8ac845c9018d",
+  "trainableHashAfter": "9312348c6df5f42a73753167895472e52ca10a81807043827e64faff1c39a40a",
+  "weightsChanged": true,
+  "qualityGate": true,
+  "meanTrainLoss": 0.3603015425435054,
+  "scope": "OSRS grounded-answer formatting and controller decisions; not full-game mastery"
+}

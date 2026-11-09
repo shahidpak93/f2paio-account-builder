@@ -1,0 +1,46 @@
+{
+  "wikiRevisions": 48,
+  "wikiBytes": 720737,
+  "videos": 7,
+  "videoBytes": 39843976,
+  "textRuns": {
+    "first": {
+      "steps": 75,
+      "trainRows": 149,
+      "heldoutRows": 38,
+      "baseExact": 0,
+      "adapterExact": 6,
+      "independentBase": 2,
+      "independentAdapter": 1,
+      "independentCases": 12,
+      "adapterSha256": "1ca9046ed4e3daa308ec816930b5abfd4128afdd057dfef797a4b8cc74ad6128"
+    },
+    "balanced": {
+      "steps": 31,
+      "trainRows": 93,
+      "heldoutRows": 52,
+      "baseExact": 3,
+      "adapterExact": 12,
+      "independentBase": 2,
+      "independentAdapter": 6,
+      "independentCases": 12,
+      "adapterSha256": "6760112f90ba782355ad03164ac7eebed9d1a4b79958a24440228c4ed10a0afa"
+    }
+  },
+  "visionHeldout": {
+    "frames": 130,
+    "accuracy": 0.9153846153846154,
+    "bank_recall": 1.0,
+    "world_recall": 0.15384615384615385,
+    "balanced_accuracy": 0.5769230769230769
+  },
+  "visionBaseline": {
+    "frames": 130,
+    "accuracy": 0.9,
+    "bank_recall": 1.0,
+    "world_recall": 0.0,
+    "balanced_accuracy": 0.5
+  },
+  "liveDeployment": false,
+  "activePlugin": "0.13.0"
+}

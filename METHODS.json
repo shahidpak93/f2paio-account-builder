@@ -1,0 +1,2362 @@
+[
+  {
+    "id": "trees",
+    "label": "Trees - Lumbridge",
+    "kind": "OBJECT",
+    "skill": "WOODCUTTING",
+    "level": 1,
+    "names": [
+      "Tree",
+      "Evergreen"
+    ],
+    "action": "Chop down",
+    "location": {
+      "x": 3192,
+      "y": 3223,
+      "plane": 0
+    },
+    "products": [
+      "Logs"
+    ],
+    "tools": [
+      "axe"
+    ]
+  },
+  {
+    "id": "oak",
+    "label": "Oak - Draynor",
+    "kind": "OBJECT",
+    "skill": "WOODCUTTING",
+    "level": 15,
+    "names": [
+      "Oak",
+      "Oak tree"
+    ],
+    "action": "Chop down",
+    "location": {
+      "x": 3103,
+      "y": 3279,
+      "plane": 0
+    },
+    "products": [
+      "Oak logs"
+    ],
+    "tools": [
+      "axe"
+    ]
+  },
+  {
+    "id": "willow",
+    "label": "Willow - Draynor",
+    "kind": "OBJECT",
+    "skill": "WOODCUTTING",
+    "level": 30,
+    "names": [
+      "Willow",
+      "Willow tree"
+    ],
+    "action": "Chop down",
+    "location": {
+      "x": 3087,
+      "y": 3237,
+      "plane": 0
+    },
+    "products": [
+      "Willow logs"
+    ],
+    "tools": [
+      "axe"
+    ]
+  },
+  {
+    "id": "yew",
+    "label": "Yew - Edgeville",
+    "kind": "OBJECT",
+    "skill": "WOODCUTTING",
+    "level": 60,
+    "names": [
+      "Yew",
+      "Yew tree"
+    ],
+    "action": "Chop down",
+    "location": {
+      "x": 3087,
+      "y": 3468,
+      "plane": 0
+    },
+    "products": [
+      "Yew logs"
+    ],
+    "tools": [
+      "axe"
+    ]
+  },
+  {
+    "id": "copper",
+    "label": "Copper - Varrock southeast",
+    "kind": "OBJECT",
+    "skill": "MINING",
+    "level": 1,
+    "names": [
+      "Copper rocks"
+    ],
+    "action": "Mine",
+    "location": {
+      "x": 3285,
+      "y": 3363,
+      "plane": 0
+    },
+    "products": [
+      "Copper ore"
+    ],
+    "tools": [
+      "pickaxe"
+    ]
+  },
+  {
+    "id": "tin",
+    "label": "Tin - Varrock southeast",
+    "kind": "OBJECT",
+    "skill": "MINING",
+    "level": 1,
+    "names": [
+      "Tin rocks"
+    ],
+    "action": "Mine",
+    "location": {
+      "x": 3285,
+      "y": 3363,
+      "plane": 0
+    },
+    "products": [
+      "Tin ore"
+    ],
+    "tools": [
+      "pickaxe"
+    ]
+  },
+  {
+    "id": "iron",
+    "label": "Iron - Varrock southeast",
+    "kind": "OBJECT",
+    "skill": "MINING",
+    "level": 15,
+    "names": [
+      "Iron rocks"
+    ],
+    "action": "Mine",
+    "location": {
+      "x": 3286,
+      "y": 3368,
+      "plane": 0
+    },
+    "products": [
+      "Iron ore"
+    ],
+    "tools": [
+      "pickaxe"
+    ]
+  },
+  {
+    "id": "shrimp",
+    "label": "Shrimp - Lumbridge swamp",
+    "kind": "FISHING",
+    "skill": "FISHING",
+    "level": 1,
+    "names": [
+      "Fishing spot"
+    ],
+    "action": "Net",
+    "location": {
+      "x": 3241,
+      "y": 3152,
+      "plane": 0
+    },
+    "products": [
+      "Raw shrimps",
+      "Raw anchovies"
+    ],
+    "tools": [
+      "Small fishing net"
+    ]
+  },
+  {
+    "id": "trout",
+    "label": "Trout - Barbarian Village",
+    "kind": "FISHING",
+    "skill": "FISHING",
+    "level": 20,
+    "names": [
+      "Rod Fishing spot",
+      "Fishing spot"
+    ],
+    "action": "Lure",
+    "location": {
+      "x": 3104,
+      "y": 3424,
+      "plane": 0
+    },
+    "products": [
+      "Raw trout",
+      "Raw salmon"
+    ],
+    "tools": [
+      "Fly fishing rod",
+      "Feather"
+    ]
+  },
+  {
+    "id": "chickens",
+    "label": "Chickens - Lumbridge",
+    "kind": "COMBAT",
+    "skill": "ATTACK",
+    "level": 1,
+    "names": [
+      "Chicken"
+    ],
+    "action": "Attack",
+    "location": {
+      "x": 3232,
+      "y": 3296,
+      "plane": 0
+    },
+    "products": [
+      "Feather",
+      "Bones",
+      "Raw chicken"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cows",
+    "label": "Cows - Lumbridge",
+    "kind": "COMBAT",
+    "skill": "ATTACK",
+    "level": 5,
+    "names": [
+      "Cow",
+      "Cow calf"
+    ],
+    "action": "Attack",
+    "location": {
+      "x": 3257,
+      "y": 3276,
+      "plane": 0
+    },
+    "products": [
+      "Cowhide",
+      "Bones",
+      "Raw beef"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cooks",
+    "label": "Cook\u0027s Assistant",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 3208,
+      "y": 3213,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "sheep",
+    "label": "Sheep Shearer",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 3189,
+      "y": 3272,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "doric",
+    "label": "Doric\u0027s Quest",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 2951,
+      "y": 3450,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "witch",
+    "label": "Witch\u0027s Potion",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 2967,
+      "y": 3205,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "rune_mysteries",
+    "label": "Rune Mysteries",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 3210,
+      "y": 3220,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "romeo",
+    "label": "Romeo \u0026 Juliet",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 3213,
+      "y": 3423,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "pirates",
+    "label": "Pirate\u0027s Treasure",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 3051,
+      "y": 3252,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "imp_catcher",
+    "label": "Imp Catcher",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 3108,
+      "y": 3150,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "clay",
+    "label": "Clay - Varrock west",
+    "kind": "OBJECT",
+    "skill": "MINING",
+    "level": 1,
+    "names": [
+      "Clay rocks"
+    ],
+    "action": "Mine",
+    "location": {
+      "x": 3181,
+      "y": 3372,
+      "plane": 0
+    },
+    "products": [
+      "Clay"
+    ],
+    "tools": [
+      "pickaxe"
+    ]
+  },
+  {
+    "id": "silver",
+    "label": "Silver - Varrock west",
+    "kind": "OBJECT",
+    "skill": "MINING",
+    "level": 20,
+    "names": [
+      "Silver rocks"
+    ],
+    "action": "Mine",
+    "location": {
+      "x": 3181,
+      "y": 3372,
+      "plane": 0
+    },
+    "products": [
+      "Silver ore"
+    ],
+    "tools": [
+      "pickaxe"
+    ]
+  },
+  {
+    "id": "coal",
+    "label": "Coal - Barbarian Village",
+    "kind": "OBJECT",
+    "skill": "MINING",
+    "level": 30,
+    "names": [
+      "Coal rocks"
+    ],
+    "action": "Mine",
+    "location": {
+      "x": 3082,
+      "y": 3420,
+      "plane": 0
+    },
+    "products": [
+      "Coal"
+    ],
+    "tools": [
+      "pickaxe"
+    ]
+  },
+  {
+    "id": "gold",
+    "label": "Gold - Al Kharid",
+    "kind": "OBJECT",
+    "skill": "MINING",
+    "level": 40,
+    "names": [
+      "Gold rocks"
+    ],
+    "action": "Mine",
+    "location": {
+      "x": 3295,
+      "y": 3285,
+      "plane": 0
+    },
+    "products": [
+      "Gold ore"
+    ],
+    "tools": [
+      "pickaxe"
+    ]
+  },
+  {
+    "id": "mithril",
+    "label": "Mithril - Al Kharid",
+    "kind": "OBJECT",
+    "skill": "MINING",
+    "level": 55,
+    "names": [
+      "Mithril rocks"
+    ],
+    "action": "Mine",
+    "location": {
+      "x": 3302,
+      "y": 3314,
+      "plane": 0
+    },
+    "products": [
+      "Mithril ore"
+    ],
+    "tools": [
+      "pickaxe"
+    ]
+  },
+  {
+    "id": "adamant",
+    "label": "Adamantite - Al Kharid",
+    "kind": "OBJECT",
+    "skill": "MINING",
+    "level": 70,
+    "names": [
+      "Adamantite rocks"
+    ],
+    "action": "Mine",
+    "location": {
+      "x": 3300,
+      "y": 3317,
+      "plane": 0
+    },
+    "products": [
+      "Adamantite ore"
+    ],
+    "tools": [
+      "pickaxe"
+    ]
+  },
+  {
+    "id": "sardine",
+    "label": "Sardines - Lumbridge coast",
+    "kind": "FISHING",
+    "skill": "FISHING",
+    "level": 5,
+    "names": [
+      "Fishing spot"
+    ],
+    "action": "Bait",
+    "location": {
+      "x": 3242,
+      "y": 3150,
+      "plane": 0
+    },
+    "products": [
+      "Raw sardine",
+      "Raw herring"
+    ],
+    "tools": [
+      "Fishing rod",
+      "Fishing bait"
+    ]
+  },
+  {
+    "id": "herring",
+    "label": "Herring - Draynor",
+    "kind": "FISHING",
+    "skill": "FISHING",
+    "level": 10,
+    "names": [
+      "Fishing spot"
+    ],
+    "action": "Bait",
+    "location": {
+      "x": 3086,
+      "y": 3230,
+      "plane": 0
+    },
+    "products": [
+      "Raw herring",
+      "Raw sardine"
+    ],
+    "tools": [
+      "Fishing rod",
+      "Fishing bait"
+    ]
+  },
+  {
+    "id": "pike",
+    "label": "Pike - Barbarian Village",
+    "kind": "FISHING",
+    "skill": "FISHING",
+    "level": 25,
+    "names": [
+      "Fishing spot"
+    ],
+    "action": "Bait",
+    "location": {
+      "x": 3104,
+      "y": 3424,
+      "plane": 0
+    },
+    "products": [
+      "Raw pike"
+    ],
+    "tools": [
+      "Fishing rod",
+      "Fishing bait"
+    ]
+  },
+  {
+    "id": "lobster",
+    "label": "Lobsters - Karamja",
+    "kind": "FISHING",
+    "skill": "FISHING",
+    "level": 40,
+    "names": [
+      "Fishing spot"
+    ],
+    "action": "Cage",
+    "location": {
+      "x": 2924,
+      "y": 3178,
+      "plane": 0
+    },
+    "products": [
+      "Raw lobster"
+    ],
+    "tools": [
+      "Lobster pot"
+    ]
+  },
+  {
+    "id": "tuna",
+    "label": "Tuna - Karamja",
+    "kind": "FISHING",
+    "skill": "FISHING",
+    "level": 35,
+    "names": [
+      "Fishing spot"
+    ],
+    "action": "Harpoon",
+    "location": {
+      "x": 2924,
+      "y": 3178,
+      "plane": 0
+    },
+    "products": [
+      "Raw tuna",
+      "Raw swordfish"
+    ],
+    "tools": [
+      "Harpoon"
+    ]
+  },
+  {
+    "id": "swordfish",
+    "label": "Swordfish - Karamja",
+    "kind": "FISHING",
+    "skill": "FISHING",
+    "level": 50,
+    "names": [
+      "Fishing spot"
+    ],
+    "action": "Harpoon",
+    "location": {
+      "x": 2924,
+      "y": 3178,
+      "plane": 0
+    },
+    "products": [
+      "Raw tuna",
+      "Raw swordfish"
+    ],
+    "tools": [
+      "Harpoon"
+    ]
+  },
+  {
+    "id": "loot_ashes",
+    "label": "Collect ashes - Grand Exchange",
+    "kind": "GROUND",
+    "skill": "ATTACK",
+    "level": 1,
+    "names": [
+      "Ashes"
+    ],
+    "action": "Take",
+    "location": {
+      "x": 3165,
+      "y": 3487,
+      "plane": 0
+    },
+    "products": [
+      "Ashes"
+    ],
+    "tools": []
+  },
+  {
+    "id": "loot_cowhide",
+    "label": "Collect cowhides - Lumbridge",
+    "kind": "GROUND",
+    "skill": "ATTACK",
+    "level": 1,
+    "names": [
+      "Cowhide"
+    ],
+    "action": "Take",
+    "location": {
+      "x": 3257,
+      "y": 3276,
+      "plane": 0
+    },
+    "products": [
+      "Cowhide"
+    ],
+    "tools": []
+  },
+  {
+    "id": "loot_bones",
+    "label": "Collect bones - chicken farm",
+    "kind": "GROUND",
+    "skill": "ATTACK",
+    "level": 1,
+    "names": [
+      "Bones"
+    ],
+    "action": "Take",
+    "location": {
+      "x": 3232,
+      "y": 3296,
+      "plane": 0
+    },
+    "products": [
+      "Bones"
+    ],
+    "tools": []
+  },
+  {
+    "id": "loot_feathers",
+    "label": "Collect feathers - chicken farm",
+    "kind": "GROUND",
+    "skill": "ATTACK",
+    "level": 1,
+    "names": [
+      "Feather"
+    ],
+    "action": "Take",
+    "location": {
+      "x": 3232,
+      "y": 3296,
+      "plane": 0
+    },
+    "products": [
+      "Feather"
+    ],
+    "tools": []
+  },
+  {
+    "id": "loot_fish",
+    "label": "Collect discarded fish - Barbarian Village",
+    "kind": "GROUND",
+    "skill": "ATTACK",
+    "level": 1,
+    "names": [
+      "Raw trout",
+      "Raw salmon",
+      "Trout",
+      "Salmon"
+    ],
+    "action": "Take",
+    "location": {
+      "x": 3104,
+      "y": 3424,
+      "plane": 0
+    },
+    "products": [
+      "Raw trout",
+      "Raw salmon",
+      "Trout",
+      "Salmon"
+    ],
+    "tools": []
+  },
+  {
+    "id": "loot_beef",
+    "label": "Collect raw beef - Lumbridge",
+    "kind": "GROUND",
+    "skill": "ATTACK",
+    "level": 1,
+    "names": [
+      "Raw beef"
+    ],
+    "action": "Take",
+    "location": {
+      "x": 3257,
+      "y": 3276,
+      "plane": 0
+    },
+    "products": [
+      "Raw beef"
+    ],
+    "tools": []
+  },
+  {
+    "id": "loot_chicken",
+    "label": "Collect raw chicken - Lumbridge",
+    "kind": "GROUND",
+    "skill": "ATTACK",
+    "level": 1,
+    "names": [
+      "Raw chicken"
+    ],
+    "action": "Take",
+    "location": {
+      "x": 3232,
+      "y": 3296,
+      "plane": 0
+    },
+    "products": [
+      "Raw chicken"
+    ],
+    "tools": []
+  },
+  {
+    "id": "pvp_loot",
+    "label": "Public PvP loot - populated F2P world",
+    "kind": "GROUND",
+    "skill": "ATTACK",
+    "level": 1,
+    "names": [
+      "Coins",
+      "Ashes",
+      "Bones",
+      "Trout",
+      "Salmon",
+      "Lobster",
+      "Swordfish",
+      "Steel arrow",
+      "Mithril arrow",
+      "Adamant arrow",
+      "Rune arrow"
+    ],
+    "action": "Take",
+    "location": {
+      "x": 3165,
+      "y": 3487,
+      "plane": 0
+    },
+    "products": [
+      "Coins",
+      "Ashes",
+      "Bones",
+      "Trout",
+      "Salmon",
+      "Lobster",
+      "Swordfish",
+      "Steel arrow",
+      "Mithril arrow",
+      "Adamant arrow",
+      "Rune arrow"
+    ],
+    "tools": []
+  },
+  {
+    "id": "chocolate",
+    "label": "Grind chocolate bars",
+    "kind": "PROCESS",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3185,
+      "y": 3436,
+      "plane": 0
+    },
+    "products": [
+      "Chocolate dust"
+    ],
+    "tools": []
+  },
+  {
+    "id": "string_gold",
+    "label": "String gold amulets",
+    "kind": "PROCESS",
+    "skill": "CRAFTING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3185,
+      "y": 3436,
+      "plane": 0
+    },
+    "products": [
+      "Gold amulet"
+    ],
+    "tools": []
+  },
+  {
+    "id": "tan_soft",
+    "label": "Tan cowhides - soft leather",
+    "kind": "PROCESS",
+    "skill": "CRAFTING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3273,
+      "y": 3192,
+      "plane": 0
+    },
+    "products": [
+      "Leather"
+    ],
+    "tools": []
+  },
+  {
+    "id": "tan_hard",
+    "label": "Tan cowhides - hard leather",
+    "kind": "PROCESS",
+    "skill": "CRAFTING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3273,
+      "y": 3192,
+      "plane": 0
+    },
+    "products": [
+      "Hard leather"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cook_shrimp",
+    "label": "Cook shrimps - Al Kharid",
+    "kind": "PROCESS",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3274,
+      "y": 3181,
+      "plane": 0
+    },
+    "products": [
+      "Shrimps",
+      "Burnt shrimp"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cook_trout",
+    "label": "Cook trout - Al Kharid",
+    "kind": "PROCESS",
+    "skill": "COOKING",
+    "level": 15,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3274,
+      "y": 3181,
+      "plane": 0
+    },
+    "products": [
+      "Trout",
+      "Burnt fish"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cook_salmon",
+    "label": "Cook salmon - Al Kharid",
+    "kind": "PROCESS",
+    "skill": "COOKING",
+    "level": 25,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3274,
+      "y": 3181,
+      "plane": 0
+    },
+    "products": [
+      "Salmon",
+      "Burnt fish"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cook_tuna",
+    "label": "Cook tuna - Al Kharid",
+    "kind": "PROCESS",
+    "skill": "COOKING",
+    "level": 30,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3274,
+      "y": 3181,
+      "plane": 0
+    },
+    "products": [
+      "Tuna",
+      "Burnt fish"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cook_lobster",
+    "label": "Cook lobsters - Al Kharid",
+    "kind": "PROCESS",
+    "skill": "COOKING",
+    "level": 40,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3274,
+      "y": 3181,
+      "plane": 0
+    },
+    "products": [
+      "Lobster",
+      "Burnt lobster"
+    ],
+    "tools": []
+  },
+  {
+    "id": "restless_ghost",
+    "label": "The Restless Ghost",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 3243,
+      "y": 3208,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "x_marks",
+    "label": "X Marks the Spot",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 3228,
+      "y": 3241,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "knights_sword",
+    "label": "The Knight\u0027s Sword",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 2976,
+      "y": 3342,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "goblin_diplomacy",
+    "label": "Goblin Diplomacy",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 2956,
+      "y": 3506,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "ernest",
+    "label": "Ernest the Chicken",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 3110,
+      "y": 3330,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "vampyre",
+    "label": "Vampyre Slayer",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 3098,
+      "y": 3268,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "demon_slayer",
+    "label": "Demon Slayer",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 3204,
+      "y": 3424,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "black_knights",
+    "label": "Black Knights\u0027 Fortress",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 2958,
+      "y": 3335,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "prince_ali",
+    "label": "Prince Ali Rescue",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 3293,
+      "y": 3163,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "below_ice",
+    "label": "Below Ice Mountain",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 3001,
+      "y": 3436,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "corsair",
+    "label": "The Corsair Curse",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 3029,
+      "y": 3274,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "dragon_slayer",
+    "label": "Dragon Slayer I",
+    "kind": "QUEST",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "Talk-to",
+    "location": {
+      "x": 3190,
+      "y": 3362,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "range_chickens",
+    "label": "Ranged - Lumbridge chickens",
+    "kind": "COMBAT",
+    "skill": "RANGED",
+    "level": 1,
+    "names": [
+      "Chicken"
+    ],
+    "action": "Attack",
+    "location": {
+      "x": 3230,
+      "y": 3296,
+      "plane": 0
+    },
+    "products": [
+      "Feather",
+      "Raw chicken",
+      "Bones"
+    ],
+    "tools": []
+  },
+  {
+    "id": "mage_chickens",
+    "label": "Magic - Lumbridge chickens",
+    "kind": "COMBAT",
+    "skill": "MAGIC",
+    "level": 1,
+    "names": [
+      "Chicken"
+    ],
+    "action": "Attack",
+    "location": {
+      "x": 3230,
+      "y": 3296,
+      "plane": 0
+    },
+    "products": [
+      "Feather",
+      "Raw chicken",
+      "Bones"
+    ],
+    "tools": []
+  },
+  {
+    "id": "pray_bones",
+    "label": "Prayer - bury bones",
+    "kind": "PROCESS",
+    "skill": "PRAYER",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3165,
+      "y": 3487,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "burn_logs",
+    "label": "Firemaking - normal logs",
+    "kind": "PROCESS",
+    "skill": "FIREMAKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3173,
+      "y": 3497,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "giant_frogs",
+    "label": "Giant frogs - Lumbridge swamp (ATTACK)",
+    "kind": "COMBAT",
+    "skill": "ATTACK",
+    "level": 15,
+    "names": [
+      "Giant frog"
+    ],
+    "action": "Attack",
+    "location": {
+      "x": 3196,
+      "y": 3170,
+      "plane": 0
+    },
+    "products": [
+      "Big bones"
+    ],
+    "tools": []
+  },
+  {
+    "id": "hill_giants",
+    "label": "Hill giants - Giants\u0027 Plateau (ATTACK)",
+    "kind": "COMBAT",
+    "skill": "ATTACK",
+    "level": 30,
+    "names": [
+      "Hill Giant"
+    ],
+    "action": "Attack",
+    "location": {
+      "x": 3380,
+      "y": 3152,
+      "plane": 0
+    },
+    "products": [
+      "Big bones",
+      "Limpwurt root"
+    ],
+    "tools": []
+  },
+  {
+    "id": "range_cows",
+    "label": "Cows - Lumbridge (RANGED)",
+    "kind": "COMBAT",
+    "skill": "RANGED",
+    "level": 5,
+    "names": [
+      "Cow",
+      "Cow calf"
+    ],
+    "action": "Attack",
+    "location": {
+      "x": 3257,
+      "y": 3276,
+      "plane": 0
+    },
+    "products": [
+      "Cowhide",
+      "Bones",
+      "Raw beef"
+    ],
+    "tools": []
+  },
+  {
+    "id": "range_giant_frogs",
+    "label": "Giant frogs - Lumbridge swamp (RANGED)",
+    "kind": "COMBAT",
+    "skill": "RANGED",
+    "level": 15,
+    "names": [
+      "Giant frog"
+    ],
+    "action": "Attack",
+    "location": {
+      "x": 3196,
+      "y": 3170,
+      "plane": 0
+    },
+    "products": [
+      "Big bones"
+    ],
+    "tools": []
+  },
+  {
+    "id": "range_hill_giants",
+    "label": "Hill giants - Giants\u0027 Plateau (RANGED)",
+    "kind": "COMBAT",
+    "skill": "RANGED",
+    "level": 30,
+    "names": [
+      "Hill Giant"
+    ],
+    "action": "Attack",
+    "location": {
+      "x": 3380,
+      "y": 3152,
+      "plane": 0
+    },
+    "products": [
+      "Big bones",
+      "Limpwurt root"
+    ],
+    "tools": []
+  },
+  {
+    "id": "mage_cows",
+    "label": "Cows - Lumbridge (MAGIC)",
+    "kind": "COMBAT",
+    "skill": "MAGIC",
+    "level": 5,
+    "names": [
+      "Cow",
+      "Cow calf"
+    ],
+    "action": "Attack",
+    "location": {
+      "x": 3257,
+      "y": 3276,
+      "plane": 0
+    },
+    "products": [
+      "Cowhide",
+      "Bones",
+      "Raw beef"
+    ],
+    "tools": []
+  },
+  {
+    "id": "mage_giant_frogs",
+    "label": "Giant frogs - Lumbridge swamp (MAGIC)",
+    "kind": "COMBAT",
+    "skill": "MAGIC",
+    "level": 15,
+    "names": [
+      "Giant frog"
+    ],
+    "action": "Attack",
+    "location": {
+      "x": 3196,
+      "y": 3170,
+      "plane": 0
+    },
+    "products": [
+      "Big bones"
+    ],
+    "tools": []
+  },
+  {
+    "id": "mage_hill_giants",
+    "label": "Hill giants - Giants\u0027 Plateau (MAGIC)",
+    "kind": "COMBAT",
+    "skill": "MAGIC",
+    "level": 30,
+    "names": [
+      "Hill Giant"
+    ],
+    "action": "Attack",
+    "location": {
+      "x": 3380,
+      "y": 3152,
+      "plane": 0
+    },
+    "products": [
+      "Big bones",
+      "Limpwurt root"
+    ],
+    "tools": []
+  },
+  {
+    "id": "burn_oak",
+    "label": "Firemaking - oak logs",
+    "kind": "PROCESS",
+    "skill": "FIREMAKING",
+    "level": 15,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3173,
+      "y": 3497,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "burn_willow",
+    "label": "Firemaking - willow logs",
+    "kind": "PROCESS",
+    "skill": "FIREMAKING",
+    "level": 30,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3173,
+      "y": 3497,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "burn_maple",
+    "label": "Firemaking - maple logs",
+    "kind": "PROCESS",
+    "skill": "FIREMAKING",
+    "level": 45,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3173,
+      "y": 3497,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "burn_yew",
+    "label": "Firemaking - yew logs",
+    "kind": "PROCESS",
+    "skill": "FIREMAKING",
+    "level": 60,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3173,
+      "y": 3497,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "pray_big_bones",
+    "label": "Prayer - bury big bones",
+    "kind": "PROCESS",
+    "skill": "PRAYER",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3165,
+      "y": 3487,
+      "plane": 0
+    },
+    "products": [],
+    "tools": []
+  },
+  {
+    "id": "smelt_bronze",
+    "label": "Smithing - smelt bronze bars",
+    "kind": "PROCESS",
+    "skill": "SMITHING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3273,
+      "y": 3186,
+      "plane": 0
+    },
+    "products": [
+      "Bronze bar"
+    ],
+    "tools": []
+  },
+  {
+    "id": "smelt_iron",
+    "label": "Smithing - smelt iron bars",
+    "kind": "PROCESS",
+    "skill": "SMITHING",
+    "level": 15,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3273,
+      "y": 3186,
+      "plane": 0
+    },
+    "products": [
+      "Iron bar"
+    ],
+    "tools": []
+  },
+  {
+    "id": "forge_bronze",
+    "label": "Smithing - forge bronze daggers",
+    "kind": "PROCESS",
+    "skill": "SMITHING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3188,
+      "y": 3425,
+      "plane": 0
+    },
+    "products": [
+      "Bronze dagger"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cook_anchovies",
+    "label": "Cook anchovies",
+    "kind": "PROCESS",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3274,
+      "y": 3181,
+      "plane": 0
+    },
+    "products": [
+      "Anchovies",
+      "Burnt anchovies"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cook_sardine",
+    "label": "Cook sardine",
+    "kind": "PROCESS",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3274,
+      "y": 3181,
+      "plane": 0
+    },
+    "products": [
+      "Sardine",
+      "Burnt fish"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cook_herring",
+    "label": "Cook herring",
+    "kind": "PROCESS",
+    "skill": "COOKING",
+    "level": 5,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3274,
+      "y": 3181,
+      "plane": 0
+    },
+    "products": [
+      "Herring",
+      "Burnt fish"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cook_pike",
+    "label": "Cook pike",
+    "kind": "PROCESS",
+    "skill": "COOKING",
+    "level": 20,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3274,
+      "y": 3181,
+      "plane": 0
+    },
+    "products": [
+      "Pike",
+      "Burnt fish"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cook_swordfish",
+    "label": "Cook swordfish",
+    "kind": "PROCESS",
+    "skill": "COOKING",
+    "level": 45,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3274,
+      "y": 3181,
+      "plane": 0
+    },
+    "products": [
+      "Swordfish",
+      "Burnt swordfish"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cook_beef",
+    "label": "Cook beef",
+    "kind": "PROCESS",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3274,
+      "y": 3181,
+      "plane": 0
+    },
+    "products": [
+      "Cooked meat",
+      "Burnt meat"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cook_chicken",
+    "label": "Cook chicken",
+    "kind": "PROCESS",
+    "skill": "COOKING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3274,
+      "y": 3181,
+      "plane": 0
+    },
+    "products": [
+      "Cooked chicken",
+      "Burnt chicken"
+    ],
+    "tools": []
+  },
+  {
+    "id": "make_wine",
+    "label": "Ferment wine",
+    "kind": "PROCESS",
+    "skill": "COOKING",
+    "level": 35,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3185,
+      "y": 3436,
+      "plane": 0
+    },
+    "products": [
+      "Jug of wine",
+      "Jug of bad wine"
+    ],
+    "tools": []
+  },
+  {
+    "id": "leather_gloves",
+    "label": "Craft leather gloves",
+    "kind": "PROCESS",
+    "skill": "CRAFTING",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3276,
+      "y": 3167,
+      "plane": 0
+    },
+    "products": [
+      "Leather gloves"
+    ],
+    "tools": []
+  },
+  {
+    "id": "leather_boots",
+    "label": "Craft leather boots",
+    "kind": "PROCESS",
+    "skill": "CRAFTING",
+    "level": 7,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3276,
+      "y": 3167,
+      "plane": 0
+    },
+    "products": [
+      "Leather boots"
+    ],
+    "tools": []
+  },
+  {
+    "id": "leather_cowl",
+    "label": "Craft leather cowl",
+    "kind": "PROCESS",
+    "skill": "CRAFTING",
+    "level": 9,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3276,
+      "y": 3167,
+      "plane": 0
+    },
+    "products": [
+      "Leather cowl"
+    ],
+    "tools": []
+  },
+  {
+    "id": "leather_vambraces",
+    "label": "Craft leather vambraces",
+    "kind": "PROCESS",
+    "skill": "CRAFTING",
+    "level": 11,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3276,
+      "y": 3167,
+      "plane": 0
+    },
+    "products": [
+      "Leather vambraces"
+    ],
+    "tools": []
+  },
+  {
+    "id": "leather_body",
+    "label": "Craft leather body",
+    "kind": "PROCESS",
+    "skill": "CRAFTING",
+    "level": 14,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3276,
+      "y": 3167,
+      "plane": 0
+    },
+    "products": [
+      "Leather body"
+    ],
+    "tools": []
+  },
+  {
+    "id": "leather_chaps",
+    "label": "Craft leather chaps",
+    "kind": "PROCESS",
+    "skill": "CRAFTING",
+    "level": 18,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3276,
+      "y": 3167,
+      "plane": 0
+    },
+    "products": [
+      "Leather chaps"
+    ],
+    "tools": []
+  },
+  {
+    "id": "smelt_silver",
+    "label": "Smelt silver bars",
+    "kind": "PROCESS",
+    "skill": "SMITHING",
+    "level": 20,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3273,
+      "y": 3186,
+      "plane": 0
+    },
+    "products": [
+      "Silver bar"
+    ],
+    "tools": []
+  },
+  {
+    "id": "smelt_steel",
+    "label": "Smelt steel bars",
+    "kind": "PROCESS",
+    "skill": "SMITHING",
+    "level": 30,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3273,
+      "y": 3186,
+      "plane": 0
+    },
+    "products": [
+      "Steel bar"
+    ],
+    "tools": []
+  },
+  {
+    "id": "smelt_gold",
+    "label": "Smelt gold bars",
+    "kind": "PROCESS",
+    "skill": "SMITHING",
+    "level": 40,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3273,
+      "y": 3186,
+      "plane": 0
+    },
+    "products": [
+      "Gold bar"
+    ],
+    "tools": []
+  },
+  {
+    "id": "smelt_mithril",
+    "label": "Smelt mithril bars",
+    "kind": "PROCESS",
+    "skill": "SMITHING",
+    "level": 50,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3273,
+      "y": 3186,
+      "plane": 0
+    },
+    "products": [
+      "Mithril bar"
+    ],
+    "tools": []
+  },
+  {
+    "id": "smelt_adamant",
+    "label": "Smelt adamantite bars",
+    "kind": "PROCESS",
+    "skill": "SMITHING",
+    "level": 70,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3273,
+      "y": 3186,
+      "plane": 0
+    },
+    "products": [
+      "Adamantite bar"
+    ],
+    "tools": []
+  },
+  {
+    "id": "smelt_rune",
+    "label": "Smelt runite bars",
+    "kind": "PROCESS",
+    "skill": "SMITHING",
+    "level": 85,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3273,
+      "y": 3186,
+      "plane": 0
+    },
+    "products": [
+      "Runite bar"
+    ],
+    "tools": []
+  },
+  {
+    "id": "craft_mind",
+    "label": "Craft mind runes",
+    "kind": "PROCESS",
+    "skill": "RUNECRAFT",
+    "level": 2,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 2982,
+      "y": 3514,
+      "plane": 0
+    },
+    "products": [
+      "Mind rune"
+    ],
+    "tools": []
+  },
+  {
+    "id": "craft_water",
+    "label": "Craft water runes",
+    "kind": "PROCESS",
+    "skill": "RUNECRAFT",
+    "level": 5,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3185,
+      "y": 3165,
+      "plane": 0
+    },
+    "products": [
+      "Water rune"
+    ],
+    "tools": []
+  },
+  {
+    "id": "craft_earth",
+    "label": "Craft earth runes",
+    "kind": "PROCESS",
+    "skill": "RUNECRAFT",
+    "level": 9,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3306,
+      "y": 3474,
+      "plane": 0
+    },
+    "products": [
+      "Earth rune"
+    ],
+    "tools": []
+  },
+  {
+    "id": "craft_fire",
+    "label": "Craft fire runes",
+    "kind": "PROCESS",
+    "skill": "RUNECRAFT",
+    "level": 14,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3313,
+      "y": 3255,
+      "plane": 0
+    },
+    "products": [
+      "Fire rune"
+    ],
+    "tools": []
+  },
+  {
+    "id": "craft_body",
+    "label": "Craft body runes",
+    "kind": "PROCESS",
+    "skill": "RUNECRAFT",
+    "level": 20,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3052,
+      "y": 3445,
+      "plane": 0
+    },
+    "products": [
+      "Body rune"
+    ],
+    "tools": []
+  },
+  {
+    "id": "craft_air",
+    "label": "Craft air runes",
+    "kind": "PROCESS",
+    "skill": "RUNECRAFT",
+    "level": 1,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 2985,
+      "y": 3292,
+      "plane": 0
+    },
+    "products": [
+      "Air rune"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cut_sapphire",
+    "label": "Cut sapphires",
+    "kind": "PROCESS",
+    "skill": "CRAFTING",
+    "level": 20,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3185,
+      "y": 3436,
+      "plane": 0
+    },
+    "products": [
+      "Sapphire"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cut_emerald",
+    "label": "Cut emeralds",
+    "kind": "PROCESS",
+    "skill": "CRAFTING",
+    "level": 27,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3185,
+      "y": 3436,
+      "plane": 0
+    },
+    "products": [
+      "Emerald"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cut_ruby",
+    "label": "Cut rubys",
+    "kind": "PROCESS",
+    "skill": "CRAFTING",
+    "level": 34,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3185,
+      "y": 3436,
+      "plane": 0
+    },
+    "products": [
+      "Ruby"
+    ],
+    "tools": []
+  },
+  {
+    "id": "cut_diamond",
+    "label": "Cut diamonds",
+    "kind": "PROCESS",
+    "skill": "CRAFTING",
+    "level": 43,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3185,
+      "y": 3436,
+      "plane": 0
+    },
+    "products": [
+      "Diamond"
+    ],
+    "tools": []
+  },
+  {
+    "id": "forge_iron",
+    "label": "Smith iron daggers",
+    "kind": "PROCESS",
+    "skill": "SMITHING",
+    "level": 15,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3188,
+      "y": 3425,
+      "plane": 0
+    },
+    "products": [
+      "Iron dagger"
+    ],
+    "tools": []
+  },
+  {
+    "id": "forge_steel",
+    "label": "Smith steel daggers",
+    "kind": "PROCESS",
+    "skill": "SMITHING",
+    "level": 30,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3188,
+      "y": 3425,
+      "plane": 0
+    },
+    "products": [
+      "Steel dagger"
+    ],
+    "tools": []
+  },
+  {
+    "id": "forge_mithril",
+    "label": "Smith mithril daggers",
+    "kind": "PROCESS",
+    "skill": "SMITHING",
+    "level": 50,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3188,
+      "y": 3425,
+      "plane": 0
+    },
+    "products": [
+      "Mithril dagger"
+    ],
+    "tools": []
+  },
+  {
+    "id": "forge_adamant",
+    "label": "Smith adamant daggers",
+    "kind": "PROCESS",
+    "skill": "SMITHING",
+    "level": 70,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3188,
+      "y": 3425,
+      "plane": 0
+    },
+    "products": [
+      "Adamant dagger"
+    ],
+    "tools": []
+  },
+  {
+    "id": "forge_rune",
+    "label": "Smith rune daggers",
+    "kind": "PROCESS",
+    "skill": "SMITHING",
+    "level": 85,
+    "names": [
+      ""
+    ],
+    "action": "",
+    "location": {
+      "x": 3188,
+      "y": 3425,
+      "plane": 0
+    },
+    "products": [
+      "Rune dagger"
+    ],
+    "tools": []
+  }
+]

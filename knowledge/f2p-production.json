@@ -1,0 +1,931 @@
+[
+  {
+    "id": "cook_anchovies",
+    "label": "Cook anchovies",
+    "skill": "COOKING",
+    "level": 1,
+    "operation": "cook",
+    "products": [
+      "Anchovies",
+      "Burnt anchovies"
+    ],
+    "x": 3274,
+    "y": 3181,
+    "inputs": [
+      {
+        "id": 321,
+        "name": "Raw anchovies",
+        "quantity": 10,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Free-to-play_Cooking_training"
+  },
+  {
+    "id": "cook_sardine",
+    "label": "Cook sardine",
+    "skill": "COOKING",
+    "level": 1,
+    "operation": "cook",
+    "products": [
+      "Sardine",
+      "Burnt fish"
+    ],
+    "x": 3274,
+    "y": 3181,
+    "inputs": [
+      {
+        "id": 327,
+        "name": "Raw sardine",
+        "quantity": 10,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Free-to-play_Cooking_training"
+  },
+  {
+    "id": "cook_herring",
+    "label": "Cook herring",
+    "skill": "COOKING",
+    "level": 5,
+    "operation": "cook",
+    "products": [
+      "Herring",
+      "Burnt fish"
+    ],
+    "x": 3274,
+    "y": 3181,
+    "inputs": [
+      {
+        "id": 345,
+        "name": "Raw herring",
+        "quantity": 10,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Free-to-play_Cooking_training"
+  },
+  {
+    "id": "cook_pike",
+    "label": "Cook pike",
+    "skill": "COOKING",
+    "level": 20,
+    "operation": "cook",
+    "products": [
+      "Pike",
+      "Burnt fish"
+    ],
+    "x": 3274,
+    "y": 3181,
+    "inputs": [
+      {
+        "id": 349,
+        "name": "Raw pike",
+        "quantity": 10,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Free-to-play_Cooking_training"
+  },
+  {
+    "id": "cook_swordfish",
+    "label": "Cook swordfish",
+    "skill": "COOKING",
+    "level": 45,
+    "operation": "cook",
+    "products": [
+      "Swordfish",
+      "Burnt swordfish"
+    ],
+    "x": 3274,
+    "y": 3181,
+    "inputs": [
+      {
+        "id": 371,
+        "name": "Raw swordfish",
+        "quantity": 10,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Free-to-play_Cooking_training"
+  },
+  {
+    "id": "cook_beef",
+    "label": "Cook beef",
+    "skill": "COOKING",
+    "level": 1,
+    "operation": "cook",
+    "products": [
+      "Cooked meat",
+      "Burnt meat"
+    ],
+    "x": 3274,
+    "y": 3181,
+    "inputs": [
+      {
+        "id": 2132,
+        "name": "Raw beef",
+        "quantity": 10,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Free-to-play_Cooking_training"
+  },
+  {
+    "id": "cook_chicken",
+    "label": "Cook chicken",
+    "skill": "COOKING",
+    "level": 1,
+    "operation": "cook",
+    "products": [
+      "Cooked chicken",
+      "Burnt chicken"
+    ],
+    "x": 3274,
+    "y": 3181,
+    "inputs": [
+      {
+        "id": 2138,
+        "name": "Raw chicken",
+        "quantity": 10,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Free-to-play_Cooking_training"
+  },
+  {
+    "id": "make_wine",
+    "label": "Ferment wine",
+    "skill": "COOKING",
+    "level": 35,
+    "operation": "wine",
+    "products": [
+      "Jug of wine",
+      "Jug of bad wine"
+    ],
+    "x": 3185,
+    "y": 3436,
+    "inputs": [
+      {
+        "id": 1987,
+        "name": "Grapes",
+        "quantity": 10,
+        "minimum": 1
+      },
+      {
+        "id": 1937,
+        "name": "Jug of water",
+        "quantity": 10,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Jug_of_wine"
+  },
+  {
+    "id": "leather_gloves",
+    "label": "Craft leather gloves",
+    "skill": "CRAFTING",
+    "level": 1,
+    "operation": "leather",
+    "products": [
+      "Leather gloves"
+    ],
+    "x": 3276,
+    "y": 3167,
+    "inputs": [
+      {
+        "id": 1733,
+        "name": "Needle",
+        "quantity": 1,
+        "minimum": 1
+      },
+      {
+        "id": 1734,
+        "name": "Thread",
+        "quantity": 10,
+        "minimum": 1
+      },
+      {
+        "id": 1741,
+        "name": "Leather",
+        "quantity": 8,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Leather_armour"
+  },
+  {
+    "id": "leather_boots",
+    "label": "Craft leather boots",
+    "skill": "CRAFTING",
+    "level": 7,
+    "operation": "leather",
+    "products": [
+      "Leather boots"
+    ],
+    "x": 3276,
+    "y": 3167,
+    "inputs": [
+      {
+        "id": 1733,
+        "name": "Needle",
+        "quantity": 1,
+        "minimum": 1
+      },
+      {
+        "id": 1734,
+        "name": "Thread",
+        "quantity": 10,
+        "minimum": 1
+      },
+      {
+        "id": 1741,
+        "name": "Leather",
+        "quantity": 8,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Leather_armour"
+  },
+  {
+    "id": "leather_cowl",
+    "label": "Craft leather cowl",
+    "skill": "CRAFTING",
+    "level": 9,
+    "operation": "leather",
+    "products": [
+      "Leather cowl"
+    ],
+    "x": 3276,
+    "y": 3167,
+    "inputs": [
+      {
+        "id": 1733,
+        "name": "Needle",
+        "quantity": 1,
+        "minimum": 1
+      },
+      {
+        "id": 1734,
+        "name": "Thread",
+        "quantity": 10,
+        "minimum": 1
+      },
+      {
+        "id": 1741,
+        "name": "Leather",
+        "quantity": 8,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Leather_armour"
+  },
+  {
+    "id": "leather_vambraces",
+    "label": "Craft leather vambraces",
+    "skill": "CRAFTING",
+    "level": 11,
+    "operation": "leather",
+    "products": [
+      "Leather vambraces"
+    ],
+    "x": 3276,
+    "y": 3167,
+    "inputs": [
+      {
+        "id": 1733,
+        "name": "Needle",
+        "quantity": 1,
+        "minimum": 1
+      },
+      {
+        "id": 1734,
+        "name": "Thread",
+        "quantity": 10,
+        "minimum": 1
+      },
+      {
+        "id": 1741,
+        "name": "Leather",
+        "quantity": 8,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Leather_armour"
+  },
+  {
+    "id": "leather_body",
+    "label": "Craft leather body",
+    "skill": "CRAFTING",
+    "level": 14,
+    "operation": "leather",
+    "products": [
+      "Leather body"
+    ],
+    "x": 3276,
+    "y": 3167,
+    "inputs": [
+      {
+        "id": 1733,
+        "name": "Needle",
+        "quantity": 1,
+        "minimum": 1
+      },
+      {
+        "id": 1734,
+        "name": "Thread",
+        "quantity": 10,
+        "minimum": 1
+      },
+      {
+        "id": 1741,
+        "name": "Leather",
+        "quantity": 8,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Leather_armour"
+  },
+  {
+    "id": "leather_chaps",
+    "label": "Craft leather chaps",
+    "skill": "CRAFTING",
+    "level": 18,
+    "operation": "leather",
+    "products": [
+      "Leather chaps"
+    ],
+    "x": 3276,
+    "y": 3167,
+    "inputs": [
+      {
+        "id": 1733,
+        "name": "Needle",
+        "quantity": 1,
+        "minimum": 1
+      },
+      {
+        "id": 1734,
+        "name": "Thread",
+        "quantity": 10,
+        "minimum": 1
+      },
+      {
+        "id": 1741,
+        "name": "Leather",
+        "quantity": 8,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Leather_armour"
+  },
+  {
+    "id": "smelt_silver",
+    "label": "Smelt silver bars",
+    "skill": "SMITHING",
+    "level": 20,
+    "operation": "smelt",
+    "products": [
+      "Silver bar"
+    ],
+    "x": 3273,
+    "y": 3186,
+    "inputs": [
+      {
+        "id": 442,
+        "name": "Silver ore",
+        "quantity": 12,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Smithing"
+  },
+  {
+    "id": "smelt_steel",
+    "label": "Smelt steel bars",
+    "skill": "SMITHING",
+    "level": 30,
+    "operation": "smelt",
+    "products": [
+      "Steel bar"
+    ],
+    "x": 3273,
+    "y": 3186,
+    "inputs": [
+      {
+        "id": 440,
+        "name": "Iron ore",
+        "quantity": 6,
+        "minimum": 1
+      },
+      {
+        "id": 453,
+        "name": "Coal",
+        "quantity": 12,
+        "minimum": 2
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Smithing"
+  },
+  {
+    "id": "smelt_gold",
+    "label": "Smelt gold bars",
+    "skill": "SMITHING",
+    "level": 40,
+    "operation": "smelt",
+    "products": [
+      "Gold bar"
+    ],
+    "x": 3273,
+    "y": 3186,
+    "inputs": [
+      {
+        "id": 444,
+        "name": "Gold ore",
+        "quantity": 12,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Smithing"
+  },
+  {
+    "id": "smelt_mithril",
+    "label": "Smelt mithril bars",
+    "skill": "SMITHING",
+    "level": 50,
+    "operation": "smelt",
+    "products": [
+      "Mithril bar"
+    ],
+    "x": 3273,
+    "y": 3186,
+    "inputs": [
+      {
+        "id": 447,
+        "name": "Mithril ore",
+        "quantity": 4,
+        "minimum": 1
+      },
+      {
+        "id": 453,
+        "name": "Coal",
+        "quantity": 16,
+        "minimum": 4
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Smithing"
+  },
+  {
+    "id": "smelt_adamant",
+    "label": "Smelt adamantite bars",
+    "skill": "SMITHING",
+    "level": 70,
+    "operation": "smelt",
+    "products": [
+      "Adamantite bar"
+    ],
+    "x": 3273,
+    "y": 3186,
+    "inputs": [
+      {
+        "id": 449,
+        "name": "Adamantite ore",
+        "quantity": 3,
+        "minimum": 1
+      },
+      {
+        "id": 453,
+        "name": "Coal",
+        "quantity": 18,
+        "minimum": 6
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Smithing"
+  },
+  {
+    "id": "smelt_rune",
+    "label": "Smelt runite bars",
+    "skill": "SMITHING",
+    "level": 85,
+    "operation": "smelt",
+    "products": [
+      "Runite bar"
+    ],
+    "x": 3273,
+    "y": 3186,
+    "inputs": [
+      {
+        "id": 451,
+        "name": "Runite ore",
+        "quantity": 2,
+        "minimum": 1
+      },
+      {
+        "id": 453,
+        "name": "Coal",
+        "quantity": 16,
+        "minimum": 8
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Smithing"
+  },
+  {
+    "id": "craft_mind",
+    "label": "Craft mind runes",
+    "skill": "RUNECRAFT",
+    "level": 2,
+    "operation": "altar",
+    "products": [
+      "Mind rune"
+    ],
+    "x": 2982,
+    "y": 3514,
+    "inputs": [
+      {
+        "id": 1436,
+        "name": "Rune essence",
+        "quantity": 20,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Free-to-play_Runecraft_training",
+    "insideX": 2786,
+    "insideY": 4841,
+    "accessId": 1448,
+    "accessName": "Mind talisman",
+    "wearableId": 5529
+  },
+  {
+    "id": "craft_water",
+    "label": "Craft water runes",
+    "skill": "RUNECRAFT",
+    "level": 5,
+    "operation": "altar",
+    "products": [
+      "Water rune"
+    ],
+    "x": 3185,
+    "y": 3165,
+    "inputs": [
+      {
+        "id": 1436,
+        "name": "Rune essence",
+        "quantity": 20,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Free-to-play_Runecraft_training",
+    "insideX": 2716,
+    "insideY": 4836,
+    "accessId": 1444,
+    "accessName": "Water talisman",
+    "wearableId": 5531
+  },
+  {
+    "id": "craft_earth",
+    "label": "Craft earth runes",
+    "skill": "RUNECRAFT",
+    "level": 9,
+    "operation": "altar",
+    "products": [
+      "Earth rune"
+    ],
+    "x": 3306,
+    "y": 3474,
+    "inputs": [
+      {
+        "id": 1436,
+        "name": "Rune essence",
+        "quantity": 20,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Free-to-play_Runecraft_training",
+    "insideX": 2658,
+    "insideY": 4841,
+    "accessId": 1440,
+    "accessName": "Earth talisman",
+    "wearableId": 5535
+  },
+  {
+    "id": "craft_fire",
+    "label": "Craft fire runes",
+    "skill": "RUNECRAFT",
+    "level": 14,
+    "operation": "altar",
+    "products": [
+      "Fire rune"
+    ],
+    "x": 3313,
+    "y": 3255,
+    "inputs": [
+      {
+        "id": 1436,
+        "name": "Rune essence",
+        "quantity": 20,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Free-to-play_Runecraft_training",
+    "insideX": 2585,
+    "insideY": 4838,
+    "accessId": 1442,
+    "accessName": "Fire talisman",
+    "wearableId": 5537
+  },
+  {
+    "id": "craft_body",
+    "label": "Craft body runes",
+    "skill": "RUNECRAFT",
+    "level": 20,
+    "operation": "altar",
+    "products": [
+      "Body rune"
+    ],
+    "x": 3052,
+    "y": 3445,
+    "inputs": [
+      {
+        "id": 1436,
+        "name": "Rune essence",
+        "quantity": 20,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Free-to-play_Runecraft_training",
+    "insideX": 2523,
+    "insideY": 4833,
+    "accessId": 1446,
+    "accessName": "Body talisman",
+    "wearableId": 5533
+  },
+  {
+    "id": "craft_air",
+    "label": "Craft air runes",
+    "skill": "RUNECRAFT",
+    "level": 1,
+    "operation": "altar",
+    "products": [
+      "Air rune"
+    ],
+    "x": 2985,
+    "y": 3292,
+    "insideX": 2843,
+    "insideY": 4833,
+    "accessId": 1438,
+    "accessName": "Air talisman",
+    "wearableId": 5527,
+    "inputs": [
+      {
+        "id": 1436,
+        "name": "Rune essence",
+        "quantity": 20,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Air_Altar"
+  },
+  {
+    "id": "cut_sapphire",
+    "label": "Cut sapphires",
+    "skill": "CRAFTING",
+    "level": 20,
+    "operation": "combine",
+    "products": [
+      "Sapphire"
+    ],
+    "x": 3185,
+    "y": 3436,
+    "inputs": [
+      {
+        "id": 1755,
+        "name": "Chisel",
+        "quantity": 1,
+        "minimum": 1
+      },
+      {
+        "id": 1623,
+        "name": "Uncut sapphire",
+        "quantity": 10,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Crafting"
+  },
+  {
+    "id": "cut_emerald",
+    "label": "Cut emeralds",
+    "skill": "CRAFTING",
+    "level": 27,
+    "operation": "combine",
+    "products": [
+      "Emerald"
+    ],
+    "x": 3185,
+    "y": 3436,
+    "inputs": [
+      {
+        "id": 1755,
+        "name": "Chisel",
+        "quantity": 1,
+        "minimum": 1
+      },
+      {
+        "id": 1621,
+        "name": "Uncut emerald",
+        "quantity": 10,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Crafting"
+  },
+  {
+    "id": "cut_ruby",
+    "label": "Cut rubys",
+    "skill": "CRAFTING",
+    "level": 34,
+    "operation": "combine",
+    "products": [
+      "Ruby"
+    ],
+    "x": 3185,
+    "y": 3436,
+    "inputs": [
+      {
+        "id": 1755,
+        "name": "Chisel",
+        "quantity": 1,
+        "minimum": 1
+      },
+      {
+        "id": 1619,
+        "name": "Uncut ruby",
+        "quantity": 10,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Crafting"
+  },
+  {
+    "id": "cut_diamond",
+    "label": "Cut diamonds",
+    "skill": "CRAFTING",
+    "level": 43,
+    "operation": "combine",
+    "products": [
+      "Diamond"
+    ],
+    "x": 3185,
+    "y": 3436,
+    "inputs": [
+      {
+        "id": 1755,
+        "name": "Chisel",
+        "quantity": 1,
+        "minimum": 1
+      },
+      {
+        "id": 1617,
+        "name": "Uncut diamond",
+        "quantity": 10,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Crafting"
+  },
+  {
+    "id": "forge_iron",
+    "label": "Smith iron daggers",
+    "skill": "SMITHING",
+    "level": 15,
+    "operation": "anvil",
+    "products": [
+      "Iron dagger"
+    ],
+    "x": 3188,
+    "y": 3425,
+    "inputs": [
+      {
+        "id": 2347,
+        "name": "Hammer",
+        "quantity": 1,
+        "minimum": 1
+      },
+      {
+        "id": 2351,
+        "name": "Iron bar",
+        "quantity": 10,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Smithing"
+  },
+  {
+    "id": "forge_steel",
+    "label": "Smith steel daggers",
+    "skill": "SMITHING",
+    "level": 30,
+    "operation": "anvil",
+    "products": [
+      "Steel dagger"
+    ],
+    "x": 3188,
+    "y": 3425,
+    "inputs": [
+      {
+        "id": 2347,
+        "name": "Hammer",
+        "quantity": 1,
+        "minimum": 1
+      },
+      {
+        "id": 2353,
+        "name": "Steel bar",
+        "quantity": 10,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Smithing"
+  },
+  {
+    "id": "forge_mithril",
+    "label": "Smith mithril daggers",
+    "skill": "SMITHING",
+    "level": 50,
+    "operation": "anvil",
+    "products": [
+      "Mithril dagger"
+    ],
+    "x": 3188,
+    "y": 3425,
+    "inputs": [
+      {
+        "id": 2347,
+        "name": "Hammer",
+        "quantity": 1,
+        "minimum": 1
+      },
+      {
+        "id": 2359,
+        "name": "Mithril bar",
+        "quantity": 10,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Smithing"
+  },
+  {
+    "id": "forge_adamant",
+    "label": "Smith adamant daggers",
+    "skill": "SMITHING",
+    "level": 70,
+    "operation": "anvil",
+    "products": [
+      "Adamant dagger"
+    ],
+    "x": 3188,
+    "y": 3425,
+    "inputs": [
+      {
+        "id": 2347,
+        "name": "Hammer",
+        "quantity": 1,
+        "minimum": 1
+      },
+      {
+        "id": 2361,
+        "name": "Adamantite bar",
+        "quantity": 10,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Smithing"
+  },
+  {
+    "id": "forge_rune",
+    "label": "Smith rune daggers",
+    "skill": "SMITHING",
+    "level": 85,
+    "operation": "anvil",
+    "products": [
+      "Rune dagger"
+    ],
+    "x": 3188,
+    "y": 3425,
+    "inputs": [
+      {
+        "id": 2347,
+        "name": "Hammer",
+        "quantity": 1,
+        "minimum": 1
+      },
+      {
+        "id": 2363,
+        "name": "Runite bar",
+        "quantity": 10,
+        "minimum": 1
+      }
+    ],
+    "source": "https://oldschool.runescape.wiki/w/Smithing"
+  }
+]

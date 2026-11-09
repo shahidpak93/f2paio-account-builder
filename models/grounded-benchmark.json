@@ -1,0 +1,180 @@
+[
+  {
+    "model": "osrs-builder-fast:0.8b",
+    "cases": [
+      {
+        "kind": "decision-logic",
+        "correct": true,
+        "actual": {
+          "action": "WITHDRAW_ITEMS"
+        },
+        "seconds": 2.806967299999087
+      },
+      {
+        "kind": "decision-logic",
+        "correct": false,
+        "actual": {
+          "action": "RUNE_PLATEBODY"
+        },
+        "seconds": 1.5264161999948556
+      },
+      {
+        "kind": "decision-logic",
+        "correct": true,
+        "actual": {
+          "action": "FUND_REQUIRED_SUPPLY"
+        },
+        "seconds": 1.32839669999521
+      },
+      {
+        "kind": "decision-logic",
+        "correct": false,
+        "actual": {
+          "action": "RUNE_PLATEBODY"
+        },
+        "seconds": 1.5471099999995204
+      },
+      {
+        "kind": "decision-logic",
+        "correct": true,
+        "actual": {
+          "action": "WITHDRAW_ITEMS"
+        },
+        "seconds": 1.1177026000004844
+      },
+      {
+        "kind": "decision-logic",
+        "correct": false,
+        "actual": {
+          "action": "WITHDRAW_TOOL"
+        },
+        "seconds": 1.3133640000014566
+      },
+      {
+        "kind": "decision-logic",
+        "correct": false,
+        "actual": {
+          "action": "ACQUIRE_REQUIREMENT"
+        },
+        "seconds": 1.3475082000004477
+      },
+      {
+        "kind": "decision-logic",
+        "correct": true,
+        "actual": {
+          "action": "WITHDRAW_ITEMS"
+        },
+        "seconds": 1.1606325000029756
+      },
+      {
+        "kind": "grounded-fact",
+        "correct": true,
+        "actual": {
+          "rule": "OSRS-012",
+          "advice": "Fishing and Cooking can be trained together."
+        },
+        "seconds": 1.6506329999974696
+      },
+      {
+        "kind": "grounded-fact",
+        "correct": true,
+        "actual": {
+          "rule": "OSRS-024",
+          "advice": "Imp Catcher awards 875 Magic experience."
+        },
+        "seconds": 1.7540329000039492
+      }
+    ],
+    "correct": 6,
+    "total": 10
+  },
+  {
+    "model": "osrs-builder:2b",
+    "cases": [
+      {
+        "kind": "decision-logic",
+        "correct": false,
+        "actual": {
+          "action": "WITHDRAW_NOTES"
+        },
+        "seconds": 4.60053880000487
+      },
+      {
+        "kind": "decision-logic",
+        "correct": false,
+        "actual": {
+          "action": "RUNE_PLATEBODY"
+        },
+        "seconds": 2.5059479999981704
+      },
+      {
+        "kind": "decision-logic",
+        "correct": false,
+        "actual": {
+          "action": "BUY_TOOL"
+        },
+        "seconds": 1.5535522999998648
+      },
+      {
+        "kind": "decision-logic",
+        "correct": false,
+        "actual": {
+          "action": "RUNE_PLATEBODY"
+        },
+        "seconds": 2.4624911999999313
+      },
+      {
+        "kind": "decision-logic",
+        "correct": false,
+        "actual": {
+          "action": "WITHDRAW_NOTES"
+        },
+        "seconds": 1.5811119999998482
+      },
+      {
+        "kind": "decision-logic",
+        "correct": false,
+        "actual": {
+          "action": "WITHDRAW_TOOL"
+        },
+        "seconds": 1.6504560999965179
+      },
+      {
+        "kind": "decision-logic",
+        "correct": false,
+        "actual": {
+          "action": "ACQUIRE_REQUIREMENT"
+        },
+        "seconds": 1.676582399995823
+      },
+      {
+        "kind": "decision-logic",
+        "correct": false,
+        "actual": {
+          "action": "WITHDRAW_NOTES"
+        },
+        "seconds": 1.5785010000035982
+      },
+      {
+        "kind": "grounded-fact",
+        "correct": true,
+        "actual": {
+          "rule": "OSRS-012",
+          "advice": "Fishing and Cooking can be trained together."
+        },
+        "seconds": 3.1005086000004667
+      },
+      {
+        "kind": "grounded-fact",
+        "correct": true,
+        "actual": {
+          "rule": "OSRS-024",
+          "advice": "Imp Catcher awards 875 Magic experience."
+        },
+        "seconds": 3.181038199996692
+      }
+    ],
+    "correct": 2,
+    "total": 10
+  }
+]

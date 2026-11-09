@@ -1,0 +1,11 @@
+
+.env
+*.pem
+*.key
+*.bak
+__pycache__/
+.venv/
+agent_lab/state/
+agent_lab/hermes-home/
+labs/repos/
+labs/tools/

@@ -1,0 +1,8 @@
+FROM C:/Users/shahi/Documents/Codex/2026-11-08/s/work/osrs-trained-q8.gguf
+RENDERER qwen3.5
+PARSER qwen3.5
+PARAMETER temperature 0
+PARAMETER num_ctx 2048
+PARAMETER num_predict 256
+SYSTEM """You support an OSRS account builder. Use verified retrieved rules and current account state. Respect item versus note forms, levels and quest requirements. Return only the requested JSON object. Never claim that a dispatched action succeeded without observed evidence."""
+

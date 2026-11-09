@@ -1,0 +1,87 @@
+{
+  "task": "Bank interface visible versus world view",
+  "scope": "Pilot video-frame classifier. Two clips held out by source, including one player bank tour. Not evaluated on live Microbot screenshots.",
+  "train_clips": [
+    {
+      "file": "Game Jam V - Locking inventory slots in bank.mp4",
+      "frames": 11
+    },
+    {
+      "file": "Barbarian Gathering - Woodcutting.webm",
+      "frames": 2
+    },
+    {
+      "file": "Barbarian Gathering - Fishing.webm",
+      "frames": 4
+    },
+    {
+      "file": "Bank Tags, Trouver System Rework & More! (2).mp4",
+      "frames": 16
+    },
+    {
+      "file": "Momentum Example.mp4",
+      "frames": 7
+    }
+  ],
+  "heldout_clips": [
+    {
+      "file": "Barbarian Gathering - Mining.webm",
+      "frames": 2,
+      "accuracy": 1.0,
+      "bank_recall": null,
+      "world_recall": 1.0,
+      "balanced_accuracy": null
+    },
+    {
+      "file": "OSRS Ironman Bank Video.mp4",
+      "frames": 128,
+      "accuracy": 0.9140625,
+      "bank_recall": 1.0,
+      "world_recall": 0.0,
+      "balanced_accuracy": 0.5
+    }
+  ],
+  "heldout_model": {
+    "frames": 130,
+    "accuracy": 0.9153846153846154,
+    "bank_recall": 1.0,
+    "world_recall": 0.15384615384615385,
+    "balanced_accuracy": 0.5769230769230769
+  },
+  "heldout_majority_baseline": {
+    "frames": 130,
+    "accuracy": 0.9,
+    "bank_recall": 1.0,
+    "world_recall": 0.0,
+    "balanced_accuracy": 0.5
+  },
+  "weights_changed": true,
+  "bank_intervals_seconds": {
+    "Game Jam V - Locking inventory slots in bank.mp4": [
+      [
+        0,
+        21
+      ]
+    ],
+    "Bank Tags, Trouver System Rework & More! (2).mp4": [
+      [
+        0,
+        30
+      ]
+    ],
+    "OSRS Ironman Bank Video.mp4": [
+      [
+        0,
+        232
+      ]
+    ]
+  },
+  "world_intervals_seconds_when_mixed": {
+    "OSRS Ironman Bank Video.mp4": [
+      [
+        252,
+        272
+      ]
+    ]
+  }
+}

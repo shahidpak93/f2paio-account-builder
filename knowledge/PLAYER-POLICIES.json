@@ -1,0 +1,35 @@
+[
+  {
+    "id": "balanced-progress",
+    "rule": "Choose due combat/skilling before quest-only milestone filtering.",
+    "applied": "Curriculum.balance",
+    "sources": [
+      "https://oldschool.runescape.wiki/w/New_player_guide"
+    ]
+  },
+  {
+    "id": "one-time-state",
+    "rule": "Confirm rewards from account varbits or saved evidence; never treat unknown as available.",
+    "applied": "GameState.rewardFlags and AccountKnowledge",
+    "sources": [
+      "https://oldschool.runescape.wiki/w/Stronghold_of_Security"
+    ]
+  },
+  {
+    "id": "verified-skill-loop",
+    "rule": "Propose, trial, verify actual effects, report, promote or quarantine, then revise.",
+    "applied": "GrowthLoop, ChainLibrary, learning feedback",
+    "sources": [
+      "https://github.com/MineDojo/Voyager"
+    ]
+  },
+  {
+    "id": "composable-tasks",
+    "rule": "Use live conditions and explicit task preconditions rather than copying another clients API.",
+    "applied": "GoalGraph, requirements, supported chains",
+    "sources": [
+      "https://github.com/Dogcube51/FOSS-AIO-Dreambot3",
+      "https://dreambot.org/javadocs/org/dreambot/api/utilities/Sleep.html"
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+{
+  "base": {
+    "correct": 2,
+    "rows": 12,
+    "cases": [
+      {
+        "scenario": "Smithing 30. A steel bar costs 1 iron ore and 2 coal. You have iron ore and 1 coal. Bank holds 20 coal.",
+        "expected": "WITHDRAW_ITEMS",
+        "actual": null,
+        "output": "{\n  \"action\": \"BUY_INPUT\",\n  \"reason\": \"The player has 1 coal and needs 2 coal to",
+        "correct": false
+      },
+      {
+        "scenario": "Smithing 30. A steel bar costs 1 iron ore and 2 coal. You have iron ore and 2 unnoted coal. Furnace is in reach.",
+        "expected": "EXECUTE",
+        "actual": null,
+        "output": "{\n  \"action\": \"BUY_INPUT\",\n  \"reason\": \"The smith requires 1 iron ore and 2 coal.",
+        "correct": false
+      },
+      {
+        "scenario": "Smithing 29. A steel bar requires Smithing 30. Inventory and furnace are ready.",
+        "expected": "TRAIN_LEVEL",
+        "actual": null,
+        "output": "{\n  \"action\": \"EXECUTE\",\n  \"reasoning\": \"The user has the required inventory (Smithing 2",
+        "correct": false
+      },
+      {
+        "scenario": "Crafting 43. To cut diamond you need chisel and uncut diamond. The only diamonds are noted. Bank available.",
+        "expected": "WITHDRAW_ITEMS",
+        "actual": null,
+        "output": "{\n  \"action\": \"BUY_INPUT\",\n  \"reason\": \"The player needs chisel and uncut diamond to craft ",
+        "correct": false
+      },
+      {
+        "scenario": "Crafting 43. To cut diamond you need chisel and uncut diamond. There is no diamond in inventory or bank. GE purchase allowed and affordable.",
+        "expected": "BUY_INPUT",
+        "actual": "BUY_INPUT",
+        "output": "{\n  \"action\": \"BUY_INPUT\"\n}\n",
+        "correct": true
+      },
+      {
+        "scenario": "Crafting 43. To cut diamond you need chisel and uncut diamond. There is no diamond in inventory or bank. Ironman cannot use GE.",
+        "expected": "FIND_SOURCE",
+        "actual": "WITHDRAW_ITEMS",
+        "output": "{\n  \"action\": \"WITHDRAW_ITEMS\"\n}\n",
+        "correct": false
+      },
+      {
+        "scenario": "Runecraft 20. Body ruins require a body talisman or a worn body tiara. Only an air tiara is worn. Essence ready.",
+        "expected": "GET_ACCESS",
+        "actual": null,
+        "output": "{\n  \"action\": \"DO_QUEST\",\n  \"quest\": \"Runecraft 20\",\n  \"quest_type",
+        "correct": false
+      },
+      {
+        "scenario": "Runecraft 20. Body ruins require a body talisman or a worn body tiara. The character wears the body tiara and is at the ruins with essence. Choose next overall step.",
+        "expected": "EXECUTE",
+        "actual": "DO_QUEST",
+        "output": "{\n  \"action\": \"DO_QUEST\"\n}\n",
+        "correct": false
+      },
+      {
+        "scenario": "Cooking 45. Swordfish recipe needs raw swordfish. The bag has already cooked swordfish. Bank has raw swordfish.",
+        "expected": "WITHDRAW_ITEMS",
+        "actual": "BUY_INPUT",
+        "output": "{\n  \"action\": \"BUY_INPUT\"\n}\n",
+        "correct": false
+      },
+      {
+        "scenario": "A rune essence mine route requires Rune Mysteries. The account has the supplies to do Rune Mysteries and it is unfinished.",
+        "expected": "DO_QUEST",
+        "actual": "DO_QUEST",
+        "output": "{\n  \"action\": \"DO_QUEST\"\n}\n",
+        "correct": true
+      },
+      {
+        "scenario": "Wine input was combined but is still unfermented. Finished wine is required to verify the result.",
+        "expected": "VERIFY_OUTPUT",
+        "actual": "WITHDRAW_ITEMS",
+        "output": "{\n  \"action\": \"WITHDRAW_ITEMS\"\n}\n",
+        "correct": false
+      },
+      {
+        "scenario": "Anvil route requires an unnoted steel bar. A banked steel bar is available, and carried bars are noted.",
+        "expected": "WITHDRAW_ITEMS",
+        "actual": "BUY_INPUT",
+        "output": "{\n  \"action\": \"BUY_INPUT\"\n}\n",
+        "correct": false
+      }
+    ]
+  },
+  "adapter": {
+    "correct": 6,
+    "rows": 12,
+    "cases": [
+      {
+        "scenario": "Smithing 30. A steel bar costs 1 iron ore and 2 coal. You have iron ore and 1 coal. Bank holds 20 coal.",
+        "expected": "WITHDRAW_ITEMS",
+        "actual": "BUY_INPUT",
+        "output": "{\"action\":\"BUY_INPUT\"}\n",
+        "correct": false
+      },
+      {
+        "scenario": "Smithing 30. A steel bar costs 1 iron ore and 2 coal. You have iron ore and 2 unnoted coal. Furnace is in reach.",
+        "expected": "EXECUTE",
+        "actual": "FIND_SOURCE",
+        "output": "{\"action\":\"FIND_SOURCE\"}\n",
+        "correct": false
+      },
+      {
+        "scenario": "Smithing 29. A steel bar requires Smithing 30. Inventory and furnace are ready.",
+        "expected": "TRAIN_LEVEL",
+        "actual": "EXECUTE",
+        "output": "{\"action\":\"EXECUTE\"}\n",
+        "correct": false
+      },
+      {
+        "scenario": "Crafting 43. To cut diamond you need chisel and uncut diamond. The only diamonds are noted. Bank available.",
+        "expected": "WITHDRAW_ITEMS",
+        "actual": "FIND_SOURCE",
+        "output": "{\"action\":\"FIND_SOURCE\"}\n",
+        "correct": false
+      },
+      {
+        "scenario": "Crafting 43. To cut diamond you need chisel and uncut diamond. There is no diamond in inventory or bank. GE purchase allowed and affordable.",
+        "expected": "BUY_INPUT",
+        "actual": "BUY_INPUT",
+        "output": "{\"action\":\"BUY_INPUT\"}\n",
+        "correct": true
+      },
+      {
+        "scenario": "Crafting 43. To cut diamond you need chisel and uncut diamond. There is no diamond in inventory or bank. Ironman cannot use GE.",
+        "expected": "FIND_SOURCE",
+        "actual": "FIND_SOURCE",
+        "output": "{\"action\":\"FIND_SOURCE\"}\n",
+        "correct": true
+      },
+      {
+        "scenario": "Runecraft 20. Body ruins require a body talisman or a worn body tiara. Only an air tiara is worn. Essence ready.",
+        "expected": "GET_ACCESS",
+        "actual": "GET_ACCESS",
+        "output": "{\"action\":\"GET_ACCESS\"}\n",
+        "correct": true
+      },
+      {
+        "scenario": "Runecraft 20. Body ruins require a body talisman or a worn body tiara. The character wears the body tiara and is at the ruins with essence. Choose next overall step.",
+        "expected": "EXECUTE",
+        "actual": "GET_ACCESS",
+        "output": "{\"action\":\"GET_ACCESS\"}\n",
+        "correct": false
+      },
+      {
+        "scenario": "Cooking 45. Swordfish recipe needs raw swordfish. The bag has already cooked swordfish. Bank has raw swordfish.",
+        "expected": "WITHDRAW_ITEMS",
+        "actual": "WITHDRAW_ITEMS",
+        "output": "{\"action\":\"WITHDRAW_ITEMS\"}\n",
+        "correct": true
+      },
+      {
+        "scenario": "A rune essence mine route requires Rune Mysteries. The account has the supplies to do Rune Mysteries and it is unfinished.",
+        "expected": "DO_QUEST",
+        "actual": "DO_QUEST",
+        "output": "{\"action\":\"DO_QUEST\"}\n",
+        "correct": true
+      },
+      {
+        "scenario": "Wine input was combined but is still unfermented. Finished wine is required to verify the result.",
+        "expected": "VERIFY_OUTPUT",
+        "actual": "DO_QUEST",
+        "output": "{\"action\":\"DO_QUEST\"}\n",
+        "correct": false
+      },
+      {
+        "scenario": "Anvil route requires an unnoted steel bar. A banked steel bar is available, and carried bars are noted.",
+        "expected": "WITHDRAW_ITEMS",
+        "actual": "WITHDRAW_ITEMS",
+        "output": "{\"action\":\"WITHDRAW_ITEMS\"}\n",
+        "correct": true
+      }
+    ]
+  }
+}

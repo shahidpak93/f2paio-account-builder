@@ -1,0 +1,26 @@
+{
+  "base": "Qwen/Qwen3.5-0.8B",
+  "device": "cpu",
+  "dtype": "bfloat16",
+  "trainRows": 191,
+  "heldoutRows": 31,
+  "epochs": 1,
+  "steps": 96,
+  "elapsedSeconds": 173.36764216423035,
+  "baseline": {
+    "loss": 0.8047805370823029,
+    "teacher_forced_token_accuracy": 0.7796852646638054,
+    "rows": 31
+  },
+  "tuned": {
+    "loss": 0.17014989980135956,
+    "teacher_forced_token_accuracy": 0.9885550786838341,
+    "rows": 31
+  },
+  "trainableHashBefore": "4b86ca5beeff284b408b14bbdb91591f5ade2dfd2fa794435a1fcc0754a56e31",
+  "trainableHashAfter": "0c444d986224f16222c0983ecf52d04b404f50cee5034f49354390c6a4eb397b",
+  "weightsChanged": true,
+  "qualityGate": true,
+  "meanTrainLoss": 0.15594380326789783,
+  "scope": "OSRS grounded-answer formatting and controller decisions; not full-game mastery"
+}

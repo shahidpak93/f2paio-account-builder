@@ -1,0 +1,167 @@
+[
+  {
+    "model": "qwen3.5:0.8b",
+    "cases": [
+      {
+        "case": "bulk_notes",
+        "expected": "WITHDRAW_NOTES",
+        "actual": "WITHDRAW_NOTES",
+        "correct": true,
+        "seconds": 5.9857226999956765,
+        "tokensPerSecond": 25.166025865082137
+      },
+      {
+        "case": "quest_item",
+        "expected": "WITHDRAW_ITEMS",
+        "actual": "WITHDRAW_NOTES",
+        "correct": false,
+        "seconds": 0.5999676999999792,
+        "tokensPerSecond": 29.459226793494096
+      },
+      {
+        "case": "quest_lock",
+        "expected": "RUNE_CHAINBODY",
+        "actual": "RUNE_PLATEBODY",
+        "correct": false,
+        "seconds": 0.7166960000031395,
+        "tokensPerSecond": 24.894013736516783
+      },
+      {
+        "case": "unlock",
+        "expected": "RUNE_PLATEBODY",
+        "actual": "RUNE_PLATEBODY",
+        "correct": true,
+        "seconds": 0.6204953000051319,
+        "tokensPerSecond": 31.736057556513984
+      },
+      {
+        "case": "builder",
+        "expected": "PROGRESS_QUEST",
+        "actual": "PROGRESS_QUEST",
+        "correct": true,
+        "seconds": 0.6830237999965902,
+        "tokensPerSecond": 25.215452029003373
+      },
+      {
+        "case": "tool",
+        "expected": "WITHDRAW_TOOL",
+        "actual": "WITHDRAW_TOOL",
+        "correct": true,
+        "seconds": 0.5782976000045892,
+        "tokensPerSecond": 26.26593603587927
+      }
+    ],
+    "correct": 4,
+    "total": 6
+  },
+  {
+    "model": "osrs-builder-fast:0.8b",
+    "cases": [
+      {
+        "case": "bulk_notes",
+        "expected": "WITHDRAW_NOTES",
+        "actual": "WITHDRAW_ITEMS",
+        "correct": false,
+        "seconds": 2.4862098999947193,
+        "tokensPerSecond": 21.07248407710422
+      },
+      {
+        "case": "quest_item",
+        "expected": "WITHDRAW_ITEMS",
+        "actual": "WITHDRAW_NOTES",
+        "correct": false,
+        "seconds": 0.8947399999960908,
+        "tokensPerSecond": 21.492639964847594
+      },
+      {
+        "case": "quest_lock",
+        "expected": "RUNE_CHAINBODY",
+        "actual": "RUNE_CHAINBODY",
+        "correct": true,
+        "seconds": 0.8596600000018952,
+        "tokensPerSecond": 21.90612495253673
+      },
+      {
+        "case": "unlock",
+        "expected": "RUNE_PLATEBODY",
+        "actual": "IRON_BODY",
+        "correct": false,
+        "seconds": 0.7575026999984402,
+        "tokensPerSecond": 22.571470950516886
+      },
+      {
+        "case": "builder",
+        "expected": "PROGRESS_QUEST",
+        "actual": "PROGRESS_QUEST",
+        "correct": true,
+        "seconds": 0.8512816000002204,
+        "tokensPerSecond": 21.7189852890073
+      },
+      {
+        "case": "tool",
+        "expected": "WITHDRAW_TOOL",
+        "actual": "WITHDRAW_TOOL",
+        "correct": true,
+        "seconds": 0.7801777999993647,
+        "tokensPerSecond": 22.42711887214019
+      }
+    ],
+    "correct": 3,
+    "total": 6
+  },
+  {
+    "model": "osrs-builder:2b",
+    "cases": [
+      {
+        "case": "bulk_notes",
+        "expected": "WITHDRAW_NOTES",
+        "actual": "WITHDRAW_NOTES",
+        "correct": true,
+        "seconds": 4.745769200002542,
+        "tokensPerSecond": 14.293178501153777
+      },
+      {
+        "case": "quest_item",
+        "expected": "WITHDRAW_ITEMS",
+        "actual": "WITHDRAW_NOTES",
+        "correct": false,
+        "seconds": 1.416692899998452,
+        "tokensPerSecond": 14.188288041164954
+      },
+      {
+        "case": "quest_lock",
+        "expected": "RUNE_CHAINBODY",
+        "actual": "RUNE_PLATEBODY",
+        "correct": false,
+        "seconds": 1.5070011999996495,
+        "tokensPerSecond": 14.168982114493875
+      },
+      {
+        "case": "unlock",
+        "expected": "RUNE_PLATEBODY",
+        "actual": "RUNE_PLATEBODY",
+        "correct": true,
+        "seconds": 1.5166319999989355,
+        "tokensPerSecond": 14.187133971943522
+      },
+      {
+        "case": "builder",
+        "expected": "PROGRESS_QUEST",
+        "actual": "PROGRESS_QUEST",
+        "correct": true,
+        "seconds": 1.4041804000007687,
+        "tokensPerSecond": 14.404816970795034
+      },
+      {
+        "case": "tool",
+        "expected": "WITHDRAW_TOOL",
+        "actual": "CLICK_TREE",
+        "correct": false,
+        "seconds": 1.229409100000339,
+        "tokensPerSecond": 14.899228007143115
+      }
+    ],
+    "correct": 3,
+    "total": 6
+  }
+]

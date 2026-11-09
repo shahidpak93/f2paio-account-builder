@@ -1,0 +1,746 @@
+[
+  {
+    "id": 1,
+    "title": "Bank",
+    "url": "https://oldschool.runescape.wiki/w/Bank",
+    "revision": 15388948,
+    "sourceTimestamp": "2026-11-01T17:28:29Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 2,
+    "title": "Bank note",
+    "url": "https://oldschool.runescape.wiki/w/Bank_note",
+    "revision": 15376223,
+    "sourceTimestamp": "2026-10-19T19:28:07Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 3,
+    "title": "Free-to-play Cooking training",
+    "url": "https://oldschool.runescape.wiki/w/Free-to-play_Cooking_training",
+    "revision": 15352306,
+    "sourceTimestamp": "2026-09-20T19:45:43Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 4,
+    "title": "Free-to-play Fishing training",
+    "url": "https://oldschool.runescape.wiki/w/Free-to-play_Fishing_training",
+    "revision": 15179373,
+    "sourceTimestamp": "2026-04-17T10:49:50Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 5,
+    "title": "Free-to-play Magic training",
+    "url": "https://oldschool.runescape.wiki/w/Free-to-play_Magic_training",
+    "revision": 15293956,
+    "sourceTimestamp": "2026-08-12T18:14:11Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 6,
+    "title": "Free-to-play Mining training",
+    "url": "https://oldschool.runescape.wiki/w/Free-to-play_Mining_training",
+    "revision": 15324653,
+    "sourceTimestamp": "2026-08-29T18:08:01Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 7,
+    "title": "Free-to-play Ranged training",
+    "url": "https://oldschool.runescape.wiki/w/Free-to-play_Ranged_training",
+    "revision": 15396377,
+    "sourceTimestamp": "2026-11-07T18:47:07Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 8,
+    "title": "Free-to-play Woodcutting training",
+    "url": "https://oldschool.runescape.wiki/w/Free-to-play_Woodcutting_training",
+    "revision": 14957897,
+    "sourceTimestamp": "2025-08-03T22:13:54Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 9,
+    "title": "Grand Exchange",
+    "url": "https://oldschool.runescape.wiki/w/Grand_Exchange",
+    "revision": 15373641,
+    "sourceTimestamp": "2026-10-16T02:02:43Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 10,
+    "title": "Free-to-play Melee training",
+    "url": "https://oldschool.runescape.wiki/w/Free-to-play_Melee_training",
+    "revision": 15392169,
+    "sourceTimestamp": "2026-11-03T16:07:37Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 11,
+    "title": "Cook's Assistant",
+    "url": "https://oldschool.runescape.wiki/w/Cook%27s_Assistant",
+    "revision": 15375073,
+    "sourceTimestamp": "2026-10-18T14:57:31Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 12,
+    "title": "Doric's Quest",
+    "url": "https://oldschool.runescape.wiki/w/Doric%27s_Quest",
+    "revision": 15367060,
+    "sourceTimestamp": "2026-10-06T19:25:23Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 13,
+    "title": "Free-to-play Crafting training",
+    "url": "https://oldschool.runescape.wiki/w/Free-to-play_Crafting_training",
+    "revision": 15352432,
+    "sourceTimestamp": "2026-09-21T01:05:01Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 14,
+    "title": "Free-to-play Firemaking training",
+    "url": "https://oldschool.runescape.wiki/w/Free-to-play_Firemaking_training",
+    "revision": 15371272,
+    "sourceTimestamp": "2026-10-12T15:27:12Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 15,
+    "title": "Free-to-play Prayer training",
+    "url": "https://oldschool.runescape.wiki/w/Free-to-play_Prayer_training",
+    "revision": 15396614,
+    "sourceTimestamp": "2026-11-08T05:49:09Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 16,
+    "title": "Free-to-play Smithing training",
+    "url": "https://oldschool.runescape.wiki/w/Free-to-play_Smithing_training",
+    "revision": 15260354,
+    "sourceTimestamp": "2026-07-11T01:56:28Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 17,
+    "title": "Optimal quest guide/Free-to-play",
+    "url": "https://oldschool.runescape.wiki/w/Optimal_quest_guide/Free-to-play",
+    "revision": 15392000,
+    "sourceTimestamp": "2026-11-03T15:23:10Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 18,
+    "title": "Rune Mysteries",
+    "url": "https://oldschool.runescape.wiki/w/Rune_Mysteries",
+    "revision": 15390926,
+    "sourceTimestamp": "2026-11-03T11:34:12Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 19,
+    "title": "Sheep Shearer",
+    "url": "https://oldschool.runescape.wiki/w/Sheep_Shearer",
+    "revision": 15367050,
+    "sourceTimestamp": "2026-10-06T19:23:54Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 20,
+    "title": "Witch's Potion",
+    "url": "https://oldschool.runescape.wiki/w/Witch%27s_Potion",
+    "revision": 15367062,
+    "sourceTimestamp": "2026-10-06T19:25:36Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 21,
+    "title": "Below Ice Mountain",
+    "url": "https://oldschool.runescape.wiki/w/Below_Ice_Mountain",
+    "revision": 15394096,
+    "sourceTimestamp": "2026-11-04T19:48:12Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 22,
+    "title": "Dragon Slayer I",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_Slayer_I",
+    "revision": 15392151,
+    "sourceTimestamp": "2026-11-03T16:02:29Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 23,
+    "title": "Imp Catcher",
+    "url": "https://oldschool.runescape.wiki/w/Imp_Catcher",
+    "revision": 15375330,
+    "sourceTimestamp": "2026-10-18T21:26:48Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 24,
+    "title": "Prince Ali Rescue",
+    "url": "https://oldschool.runescape.wiki/w/Prince_Ali_Rescue",
+    "revision": 15390923,
+    "sourceTimestamp": "2026-11-03T11:33:49Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 25,
+    "title": "Stronghold of Security",
+    "url": "https://oldschool.runescape.wiki/w/Stronghold_of_Security",
+    "revision": 15367473,
+    "sourceTimestamp": "2026-10-07T09:36:34Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 26,
+    "title": "The Corsair Curse",
+    "url": "https://oldschool.runescape.wiki/w/The_Corsair_Curse",
+    "revision": 15393806,
+    "sourceTimestamp": "2026-11-04T13:43:19Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 27,
+    "title": "The Knight's Sword",
+    "url": "https://oldschool.runescape.wiki/w/The_Knight%27s_Sword",
+    "revision": 15389667,
+    "sourceTimestamp": "2026-11-02T08:28:28Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 28,
+    "title": "The Restless Ghost",
+    "url": "https://oldschool.runescape.wiki/w/The_Restless_Ghost",
+    "revision": 15390078,
+    "sourceTimestamp": "2026-11-02T18:40:57Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 29,
+    "title": "X Marks the Spot",
+    "url": "https://oldschool.runescape.wiki/w/X_Marks_the_Spot",
+    "revision": 15367156,
+    "sourceTimestamp": "2026-10-06T20:40:05Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 30,
+    "title": "Energy",
+    "url": "https://oldschool.runescape.wiki/w/Energy",
+    "revision": 15385388,
+    "sourceTimestamp": "2026-10-29T11:17:12Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 31,
+    "title": "Amulet of power",
+    "url": "https://oldschool.runescape.wiki/w/Amulet_of_power",
+    "revision": 15386861,
+    "sourceTimestamp": "2026-10-31T07:43:26Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 32,
+    "title": "Amulet of strength",
+    "url": "https://oldschool.runescape.wiki/w/Amulet_of_strength",
+    "revision": 15386849,
+    "sourceTimestamp": "2026-10-31T07:38:53Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 33,
+    "title": "Combat triangle",
+    "url": "https://oldschool.runescape.wiki/w/Combat_triangle",
+    "revision": 15372759,
+    "sourceTimestamp": "2026-10-15T00:45:11Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 34,
+    "title": "Death",
+    "url": "https://oldschool.runescape.wiki/w/Death",
+    "revision": 15355331,
+    "sourceTimestamp": "2026-09-24T13:23:58Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 35,
+    "title": "Food",
+    "url": "https://oldschool.runescape.wiki/w/Food",
+    "revision": 15388956,
+    "sourceTimestamp": "2026-11-01T17:33:25Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 36,
+    "title": "Green d'hide body",
+    "url": "https://oldschool.runescape.wiki/w/Green_d%27hide_body",
+    "revision": 15322330,
+    "sourceTimestamp": "2026-08-27T21:13:43Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 37,
+    "title": "Ironman Mode",
+    "url": "https://oldschool.runescape.wiki/w/Ironman_Mode",
+    "revision": 15389053,
+    "sourceTimestamp": "2026-11-01T19:28:36Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 38,
+    "title": "Rune platebody",
+    "url": "https://oldschool.runescape.wiki/w/Rune_platebody",
+    "revision": 15346837,
+    "sourceTimestamp": "2026-09-16T17:46:15Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 39,
+    "title": "Rune scimitar",
+    "url": "https://oldschool.runescape.wiki/w/Rune_scimitar",
+    "revision": 15394771,
+    "sourceTimestamp": "2026-11-05T16:59:46Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "id": 40,
+    "title": "Transportation",
+    "url": "https://oldschool.runescape.wiki/w/Transportation",
+    "revision": 15380884,
+    "sourceTimestamp": "2026-10-24T03:20:45Z",
+    "retrieved": "2026-11-08"
+  },
+  {
+    "title": "New player guide",
+    "url": "https://oldschool.runescape.wiki/w/New_player_guide",
+    "revision": 15346978,
+    "sourceTimestamp": "2026-09-16T18:47:46Z",
+    "retrieved": "2026-11-08",
+    "id": 41
+  },
+  {
+    "title": "Adventure Paths",
+    "url": "https://oldschool.runescape.wiki/w/Adventure_Paths",
+    "revision": 14741525,
+    "sourceTimestamp": "2024-09-08T02:35:18Z",
+    "retrieved": "2026-11-08",
+    "id": 42
+  },
+  {
+    "title": "Adventurer Jon",
+    "url": "https://oldschool.runescape.wiki/w/Adventurer_Jon",
+    "revision": 15345518,
+    "sourceTimestamp": "2026-09-16T13:57:48Z",
+    "retrieved": "2026-11-08",
+    "id": 43
+  },
+  {
+    "title": "Combat Options",
+    "url": "https://oldschool.runescape.wiki/w/Combat_Options",
+    "revision": 15366072,
+    "sourceTimestamp": "2026-10-05T20:51:11Z",
+    "retrieved": "2026-11-08",
+    "id": 44
+  },
+  {
+    "title": "Combat level",
+    "url": "https://oldschool.runescape.wiki/w/Combat_level",
+    "revision": 15383889,
+    "sourceTimestamp": "2026-10-27T14:23:24Z",
+    "retrieved": "2026-11-08",
+    "id": 45
+  },
+  {
+    "title": "Attack",
+    "url": "https://oldschool.runescape.wiki/w/Attack",
+    "revision": 15395951,
+    "sourceTimestamp": "2026-11-07T02:30:59Z",
+    "retrieved": "2026-11-08",
+    "id": 46
+  },
+  {
+    "title": "Strength",
+    "url": "https://oldschool.runescape.wiki/w/Strength",
+    "revision": 15389968,
+    "sourceTimestamp": "2026-11-02T16:13:14Z",
+    "retrieved": "2026-11-08",
+    "id": 47
+  },
+  {
+    "title": "Defence",
+    "url": "https://oldschool.runescape.wiki/w/Defence",
+    "revision": 15395994,
+    "sourceTimestamp": "2026-11-07T03:28:00Z",
+    "retrieved": "2026-11-08",
+    "id": 48
+  },
+  {
+    "title": "Hitpoints",
+    "url": "https://oldschool.runescape.wiki/w/Hitpoints",
+    "revision": 15372630,
+    "sourceTimestamp": "2026-10-14T20:44:27Z",
+    "retrieved": "2026-11-08",
+    "id": 49
+  },
+  {
+    "title": "Ranged",
+    "url": "https://oldschool.runescape.wiki/w/Ranged",
+    "revision": 15373088,
+    "sourceTimestamp": "2026-10-15T15:55:16Z",
+    "retrieved": "2026-11-08",
+    "id": 50
+  },
+  {
+    "title": "Magic",
+    "url": "https://oldschool.runescape.wiki/w/Magic",
+    "revision": 15385836,
+    "sourceTimestamp": "2026-10-29T21:09:06Z",
+    "retrieved": "2026-11-08",
+    "id": 51
+  },
+  {
+    "title": "Prayer",
+    "url": "https://oldschool.runescape.wiki/w/Prayer",
+    "revision": 15394444,
+    "sourceTimestamp": "2026-11-05T06:19:45Z",
+    "retrieved": "2026-11-08",
+    "id": 52
+  },
+  {
+    "title": "Weight",
+    "url": "https://oldschool.runescape.wiki/w/Weight",
+    "revision": 15347830,
+    "sourceTimestamp": "2026-09-17T05:56:06Z",
+    "retrieved": "2026-11-08",
+    "id": 53
+  },
+  {
+    "title": "Lumbridge Home Teleport",
+    "url": "https://oldschool.runescape.wiki/w/Lumbridge_Home_Teleport",
+    "revision": 15362019,
+    "sourceTimestamp": "2026-10-03T12:40:03Z",
+    "retrieved": "2026-11-08",
+    "id": 54
+  },
+  {
+    "title": "Chronicle",
+    "url": "https://oldschool.runescape.wiki/w/Chronicle",
+    "revision": 15366319,
+    "sourceTimestamp": "2026-10-05T22:39:10Z",
+    "retrieved": "2026-11-08",
+    "id": 55
+  },
+  {
+    "title": "Canoe",
+    "url": "https://oldschool.runescape.wiki/w/Canoe",
+    "revision": 15394976,
+    "sourceTimestamp": "2026-11-05T20:58:09Z",
+    "retrieved": "2026-11-08",
+    "id": 56
+  },
+  {
+    "title": "Gate (Al Kharid)",
+    "url": "https://oldschool.runescape.wiki/w/Gate_%28Al_Kharid%29",
+    "revision": 14842994,
+    "sourceTimestamp": "2025-01-27T07:46:02Z",
+    "retrieved": "2026-11-08",
+    "id": 57
+  },
+  {
+    "title": "Free-to-play",
+    "url": "https://oldschool.runescape.wiki/w/Free-to-play",
+    "revision": 15359656,
+    "sourceTimestamp": "2026-10-01T13:46:41Z",
+    "retrieved": "2026-11-08",
+    "id": 58
+  },
+  {
+    "title": "Free-to-play Ironman guide",
+    "url": "https://oldschool.runescape.wiki/w/Free-to-play_Ironman_guide",
+    "revision": 15395747,
+    "sourceTimestamp": "2026-11-06T20:24:52Z",
+    "retrieved": "2026-11-08",
+    "id": 59
+  },
+  {
+    "title": "Quest experience rewards",
+    "url": "https://oldschool.runescape.wiki/w/Quest_experience_rewards",
+    "revision": 15392788,
+    "sourceTimestamp": "2026-11-03T20:55:08Z",
+    "retrieved": "2026-11-08",
+    "id": 60
+  },
+  {
+    "title": "Experience",
+    "url": "https://oldschool.runescape.wiki/w/Experience",
+    "revision": 15385377,
+    "sourceTimestamp": "2026-10-29T11:10:20Z",
+    "retrieved": "2026-11-08",
+    "id": 61
+  },
+  {
+    "title": "Attack speed",
+    "url": "https://oldschool.runescape.wiki/w/Attack_speed",
+    "revision": 15379352,
+    "sourceTimestamp": "2026-10-22T14:08:13Z",
+    "retrieved": "2026-11-08",
+    "id": 62
+  },
+  {
+    "title": "Autocast",
+    "url": "https://oldschool.runescape.wiki/w/Autocast",
+    "revision": 15379930,
+    "sourceTimestamp": "2026-10-23T05:03:48Z",
+    "retrieved": "2026-11-08",
+    "id": 63
+  },
+  {
+    "title": "Ammunition",
+    "url": "https://oldschool.runescape.wiki/w/Ammunition",
+    "revision": 15374969,
+    "sourceTimestamp": "2026-10-18T09:57:08Z",
+    "retrieved": "2026-11-08",
+    "id": 64
+  },
+  {
+    "title": "Grave",
+    "url": "https://oldschool.runescape.wiki/w/Grave",
+    "revision": 15352580,
+    "sourceTimestamp": "2026-09-21T10:32:53Z",
+    "retrieved": "2026-11-08",
+    "id": 65
+  },
+  {
+    "title": "Random events",
+    "url": "https://oldschool.runescape.wiki/w/Random_events",
+    "revision": 15390261,
+    "sourceTimestamp": "2026-11-02T23:00:25Z",
+    "retrieved": "2026-11-08",
+    "id": 66
+  },
+  {
+    "title": "Combat Achievements",
+    "url": "https://oldschool.runescape.wiki/w/Combat_Achievements",
+    "revision": 15372533,
+    "sourceTimestamp": "2026-10-14T17:05:54Z",
+    "retrieved": "2026-11-08",
+    "id": 67
+  },
+  {
+    "title": "Misthalin Mystery",
+    "url": "https://oldschool.runescape.wiki/w/Misthalin_Mystery",
+    "revision": 15367068,
+    "sourceTimestamp": "2026-10-06T19:26:15Z",
+    "retrieved": "2026-11-08",
+    "id": 68
+  },
+  {
+    "title": "Pirate's Treasure",
+    "url": "https://oldschool.runescape.wiki/w/Pirate%27s_Treasure",
+    "revision": 15390925,
+    "sourceTimestamp": "2026-11-03T11:34:00Z",
+    "retrieved": "2026-11-08",
+    "id": 69
+  },
+  {
+    "title": "Romeo & Juliet",
+    "url": "https://oldschool.runescape.wiki/w/Romeo_%26_Juliet",
+    "revision": 15390733,
+    "sourceTimestamp": "2026-11-03T10:18:41Z",
+    "retrieved": "2026-11-08",
+    "id": 70
+  },
+  {
+    "title": "Shield of Arrav",
+    "url": "https://oldschool.runescape.wiki/w/Shield_of_Arrav",
+    "revision": 15390839,
+    "sourceTimestamp": "2026-11-03T11:05:56Z",
+    "retrieved": "2026-11-08",
+    "id": 71
+  },
+  {
+    "title": "Ernest the Chicken",
+    "url": "https://oldschool.runescape.wiki/w/Ernest_the_Chicken",
+    "revision": 15390916,
+    "sourceTimestamp": "2026-11-03T11:30:46Z",
+    "retrieved": "2026-11-08",
+    "id": 72
+  },
+  {
+    "title": "Goblin Diplomacy",
+    "url": "https://oldschool.runescape.wiki/w/Goblin_Diplomacy",
+    "revision": 15379720,
+    "sourceTimestamp": "2026-10-23T00:45:49Z",
+    "retrieved": "2026-11-08",
+    "id": 73
+  },
+  {
+    "title": "Black Knights' Fortress",
+    "url": "https://oldschool.runescape.wiki/w/Black_Knights%27_Fortress",
+    "revision": 15390878,
+    "sourceTimestamp": "2026-11-03T11:16:04Z",
+    "retrieved": "2026-11-08",
+    "id": 74
+  },
+  {
+    "title": "Demon Slayer",
+    "url": "https://oldschool.runescape.wiki/w/Demon_Slayer",
+    "revision": 15393003,
+    "sourceTimestamp": "2026-11-03T23:07:50Z",
+    "retrieved": "2026-11-08",
+    "id": 75
+  },
+  {
+    "title": "Vampyre Slayer",
+    "url": "https://oldschool.runescape.wiki/w/Vampyre_Slayer",
+    "revision": 15393822,
+    "sourceTimestamp": "2026-11-04T14:08:46Z",
+    "retrieved": "2026-11-08",
+    "id": 76
+  },
+  {
+    "title": "Chicken",
+    "url": "https://oldschool.runescape.wiki/w/Chicken",
+    "revision": 15283952,
+    "sourceTimestamp": "2026-07-31T05:50:56Z",
+    "retrieved": "2026-11-08",
+    "id": 77
+  },
+  {
+    "title": "Cow",
+    "url": "https://oldschool.runescape.wiki/w/Cow",
+    "revision": 15364588,
+    "sourceTimestamp": "2026-10-04T16:54:03Z",
+    "retrieved": "2026-11-08",
+    "id": 78
+  },
+  {
+    "title": "Hill Giant",
+    "url": "https://oldschool.runescape.wiki/w/Hill_Giant",
+    "revision": 15362162,
+    "sourceTimestamp": "2026-10-03T12:53:13Z",
+    "retrieved": "2026-11-08",
+    "id": 79
+  },
+  {
+    "title": "Moss giant",
+    "url": "https://oldschool.runescape.wiki/w/Moss_giant",
+    "revision": 15392080,
+    "sourceTimestamp": "2026-11-03T15:30:46Z",
+    "retrieved": "2026-11-08",
+    "id": 80
+  },
+  {
+    "title": "Flesh Crawler",
+    "url": "https://oldschool.runescape.wiki/w/Flesh_Crawler",
+    "revision": 15275490,
+    "sourceTimestamp": "2026-07-25T23:38:23Z",
+    "retrieved": "2026-11-08",
+    "id": 81
+  },
+  {
+    "title": "Minotaur",
+    "url": "https://oldschool.runescape.wiki/w/Minotaur",
+    "revision": 15204227,
+    "sourceTimestamp": "2026-05-01T16:32:50Z",
+    "retrieved": "2026-11-08",
+    "id": 82
+  },
+  {
+    "title": "Giant frog",
+    "url": "https://oldschool.runescape.wiki/w/Giant_frog",
+    "revision": 15353449,
+    "sourceTimestamp": "2026-09-23T00:07:12Z",
+    "retrieved": "2026-11-08",
+    "id": 83
+  },
+  {
+    "title": "Giant rat",
+    "url": "https://oldschool.runescape.wiki/w/Giant_rat",
+    "revision": 15260179,
+    "sourceTimestamp": "2026-07-10T20:37:35Z",
+    "retrieved": "2026-11-08",
+    "id": 84
+  },
+  {
+    "title": "Fishing spots",
+    "url": "https://oldschool.runescape.wiki/w/Fishing_spots",
+    "revision": 15396235,
+    "sourceTimestamp": "2026-11-07T16:14:56Z",
+    "retrieved": "2026-11-08",
+    "id": 85
+  },
+  {
+    "title": "Tanner",
+    "url": "https://oldschool.runescape.wiki/w/Tanner",
+    "revision": 15317776,
+    "sourceTimestamp": "2026-08-24T05:19:25Z",
+    "retrieved": "2026-11-08",
+    "id": 86
+  },
+  {
+    "title": "Spinning wheel",
+    "url": "https://oldschool.runescape.wiki/w/Spinning_wheel",
+    "revision": 15387794,
+    "sourceTimestamp": "2026-11-01T11:36:34Z",
+    "retrieved": "2026-11-08",
+    "id": 87
+  },
+  {
+    "title": "Smithing",
+    "url": "https://oldschool.runescape.wiki/w/Smithing",
+    "revision": 15391758,
+    "sourceTimestamp": "2026-11-03T14:40:42Z",
+    "retrieved": "2026-11-08",
+    "id": 88
+  },
+  {
+    "title": "Lumbridge",
+    "url": "https://oldschool.runescape.wiki/w/Lumbridge",
+    "revision": 15394457,
+    "sourceTimestamp": "2026-11-05T07:14:06Z",
+    "retrieved": "2026-11-08",
+    "id": 89
+  },
+  {
+    "title": "Draynor Village",
+    "url": "https://oldschool.runescape.wiki/w/Draynor_Village",
+    "revision": 15393864,
+    "sourceTimestamp": "2026-11-04T14:51:12Z",
+    "retrieved": "2026-11-08",
+    "id": 90
+  },
+  {
+    "title": "Varrock",
+    "url": "https://oldschool.runescape.wiki/w/Varrock",
+    "revision": 15385112,
+    "sourceTimestamp": "2026-10-29T02:17:29Z",
+    "retrieved": "2026-11-08",
+    "id": 91
+  },
+  {
+    "title": "Edgeville",
+    "url": "https://oldschool.runescape.wiki/w/Edgeville",
+    "revision": 15390181,
+    "sourceTimestamp": "2026-11-02T21:12:17Z",
+    "retrieved": "2026-11-08",
+    "id": 92
+  },
+  {
+    "title": "Ruins of Camdozaal",
+    "url": "https://oldschool.runescape.wiki/w/Ruins_of_Camdozaal",
+    "revision": 15337666,
+    "sourceTimestamp": "2026-09-09T15:45:24Z",
+    "retrieved": "2026-11-08",
+    "id": 93
+  }
+]

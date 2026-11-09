@@ -1,0 +1,20 @@
+[
+  {
+    "name": "OSRS PvP Reinforcement Learning",
+    "url": "https://github.com/Naton1/osrs-pvp-reinforcement-learning",
+    "commit": "6914425d018ae36ef8cbaebaf1a3ba06dcc89921",
+    "use": "Referenced simulation, independent episodes and benchmark design"
+  },
+  {
+    "name": "FOSS AIO DreamBot3",
+    "url": "https://github.com/Dogcube51/FOSS-AIO-Dreambot3",
+    "commit": "c96dccdaa0ff2bc894531eacb5035d09405af61f",
+    "use": "Referenced activity and subtask structure"
+  },
+  {
+    "name": "OSRS Bot",
+    "url": "https://github.com/joshcannella/osrs-bot",
+    "commit": "5e6a700d551c3b49925ea7070928e83e61baaf8b",
+    "use": "Referenced project layout"
+  }
+]

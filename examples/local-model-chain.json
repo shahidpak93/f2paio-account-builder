@@ -1,0 +1,55 @@
+{
+  "id": "chain_ai_cook_shrimp_c59002ef",
+  "goal": "cook_shrimp",
+  "parent": "",
+  "origin": "ai-proposed",
+  "generation": 0,
+  "verifySeconds": 30,
+  "steps": [
+    {
+      "op": "PREPARE",
+      "method": "shrimp",
+      "count": 1
+    },
+    {
+      "op": "TRAVEL",
+      "method": "shrimp",
+      "count": 1
+    },
+    {
+      "op": "ACT",
+      "method": "shrimp",
+      "count": 4
+    },
+    {
+      "op": "VERIFY",
+      "method": "shrimp",
+      "count": 1
+    },
+    {
+      "op": "PREPARE",
+      "method": "cook_shrimp",
+      "count": 1
+    },
+    {
+      "op": "TRAVEL",
+      "method": "cook_shrimp",
+      "count": 1
+    },
+    {
+      "op": "ACT",
+      "method": "cook_shrimp",
+      "count": 4
+    },
+    {
+      "op": "VERIFY",
+      "method": "cook_shrimp",
+      "count": 1
+    },
+    {
+      "op": "BANK",
+      "method": "cook_shrimp",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# 0.8.2 account-builder funding correction
+
+User logs showed Skip from Prayer followed by String gold amulets requiring10 Gold amulet(u) and10 wool, then a1613GP deficit and prolonged loot travel. This was not meaningful account progression. The planner counted missing requirement types rather than affordability. FundingTask sold as soon as any saleable item existed, causing trips for one or two items.
+
+Changes: BuilderBudget filters unaffordable methods using carried coins, observed bank coins/materials and usable noted stock before selection and AI suggestions. Basic axe/pickaxe get a bounded150GP bootstrap allowance. During preparation, account-builder mode defers other unfunded supplies instead of invoking open-ended looting. Tool funding is limited to two minutes. Other affordable goals remain selectable; no material stock/GP is invented. A deferred quest can be revisited when materials/coins are available. This patch does not implement new gathering executors for every missing quest ingredient.
+
+Funding sale batches now wait for estimated value at least max(250GP, current deficit),24 occupied inventory slots, or60 seconds with no matching nearby drops. Existing owned sale offers retain priority. A dry spot can therefore still leave with a small batch after the bounded wait; it no longer leaves immediately solely because one shrimp was picked up.
+
+112 account-builder checks,10193 original checks,13 loot/coin/world,20learning and97chain checks pass. Native loader and upstream client compilation pass. Version0.8.2 installed, hashes match. Live behavior pending: restart Microbot, confirm0.8.2, observe affordable goal and real XP/quest progress. The complete account builder remains unfinished; this fixes the observed funding priorities rather than claiming full account progression proven.

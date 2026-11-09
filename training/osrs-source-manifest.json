@@ -1,0 +1,482 @@
+[
+  {
+    "requested": "Tutorial Island",
+    "title": "Tutorial Island",
+    "revision": 15396044,
+    "timestamp": "2026-11-07T06:50:19Z",
+    "url": "https://oldschool.runescape.wiki/w/Tutorial_Island",
+    "cacheFile": "wiki-f98911aea6ac7320.wiki",
+    "bytes": 26587,
+    "sha256": "6a856dbdfa95d6f4414880b7968155ed969d04693936350e7f32aece99df1ad3"
+  },
+  {
+    "requested": "New player guide",
+    "title": "New player guide",
+    "revision": 15346978,
+    "timestamp": "2026-09-16T18:47:46Z",
+    "url": "https://oldschool.runescape.wiki/w/New_player_guide",
+    "cacheFile": "wiki-2bf2a125804a8d02.wiki",
+    "bytes": 38331,
+    "sha256": "d81df21f69b2d319eff21a519b8c6adee4ed54a60627450046f1a4266bb99637"
+  },
+  {
+    "requested": "Bank",
+    "title": "Bank",
+    "revision": 15388948,
+    "timestamp": "2026-11-01T17:28:29Z",
+    "url": "https://oldschool.runescape.wiki/w/Bank",
+    "cacheFile": "wiki-676c471bc8dc3d13.wiki",
+    "bytes": 36278,
+    "sha256": "6013f9718c36ef1719c2470147e0d823bb2ed363fc95c75dda8d08236ad4ad23"
+  },
+  {
+    "requested": "Bank note",
+    "title": "Bank note",
+    "revision": 15376223,
+    "timestamp": "2026-10-19T19:28:07Z",
+    "url": "https://oldschool.runescape.wiki/w/Bank_note",
+    "cacheFile": "wiki-3c1beb09909316ef.wiki",
+    "bytes": 4310,
+    "sha256": "ed6089db5a670403df0611bba704b3d283f2571d210af473b2321f67c95dda43"
+  },
+  {
+    "requested": "Grand Exchange",
+    "title": "Grand Exchange",
+    "revision": 15373641,
+    "timestamp": "2026-10-16T02:02:43Z",
+    "url": "https://oldschool.runescape.wiki/w/Grand_Exchange",
+    "cacheFile": "wiki-e09cfbe304f88157.wiki",
+    "bytes": 28565,
+    "sha256": "92844fe2bdda84653c19c36e103debacd5a40b9d94fd058af41fe168c98390f5"
+  },
+  {
+    "requested": "Trade restrictions",
+    "title": "Account",
+    "revision": 15394356,
+    "timestamp": "2026-11-05T02:09:13Z",
+    "url": "https://oldschool.runescape.wiki/w/Account",
+    "cacheFile": "wiki-3b80e1b343571c3c.wiki",
+    "bytes": 14462,
+    "sha256": "fd6e542a53ebcac0640812bf61e59ae811ef99a8e75260e430ae42613ca2bf37"
+  },
+  {
+    "requested": "Ironman Mode",
+    "title": "Ironman Mode",
+    "revision": 15389053,
+    "timestamp": "2026-11-01T19:28:36Z",
+    "url": "https://oldschool.runescape.wiki/w/Ironman_Mode",
+    "cacheFile": "wiki-e8672f69597e28a6.wiki",
+    "bytes": 16064,
+    "sha256": "f138d54d93a809724bb64390a2cb966c84a3b1506e1b61d190e0b331b26770ff"
+  },
+  {
+    "requested": "The Knight's Sword",
+    "title": "The Knight's Sword",
+    "revision": 15389667,
+    "timestamp": "2026-11-02T08:28:28Z",
+    "url": "https://oldschool.runescape.wiki/w/The_Knight%27s_Sword",
+    "cacheFile": "wiki-e52ffe5e5d1b3586.wiki",
+    "bytes": 9420,
+    "sha256": "36501faf7ebcf66a37100d0ecb3774e970453c4b810c97888d4ee7eb1cf2b489"
+  },
+  {
+    "requested": "Doric's Quest",
+    "title": "Doric's Quest",
+    "revision": 15367060,
+    "timestamp": "2026-10-06T19:25:23Z",
+    "url": "https://oldschool.runescape.wiki/w/Doric%27s_Quest",
+    "cacheFile": "wiki-da7cf332ebc2e059.wiki",
+    "bytes": 5338,
+    "sha256": "e332bb3f83eab80888e7130ba91619f5d25077f6c60a9589371e6a854aa7349c"
+  },
+  {
+    "requested": "Cook's Assistant",
+    "title": "Cook's Assistant",
+    "revision": 15375073,
+    "timestamp": "2026-10-18T14:57:31Z",
+    "url": "https://oldschool.runescape.wiki/w/Cook%27s_Assistant",
+    "cacheFile": "wiki-ae077e5f24e4b82c.wiki",
+    "bytes": 6737,
+    "sha256": "8af398cec4c4b8a6db085009f596cea6f3fbe29d96a52016d3aaeb7b14eed7c5"
+  },
+  {
+    "requested": "The Restless Ghost",
+    "title": "The Restless Ghost",
+    "revision": 15390078,
+    "timestamp": "2026-11-02T18:40:57Z",
+    "url": "https://oldschool.runescape.wiki/w/The_Restless_Ghost",
+    "cacheFile": "wiki-827ff1e6233e839a.wiki",
+    "bytes": 5866,
+    "sha256": "cd32f2b4ab1ca8d7f678f2264e5d42303974d10927f476efb7695a998e4a9731"
+  },
+  {
+    "requested": "Sheep Shearer",
+    "title": "Sheep Shearer",
+    "revision": 15367050,
+    "timestamp": "2026-10-06T19:23:54Z",
+    "url": "https://oldschool.runescape.wiki/w/Sheep_Shearer",
+    "cacheFile": "wiki-27040f06efba1b3d.wiki",
+    "bytes": 5782,
+    "sha256": "9a143fc52c7ae57577af3be20f1c02321b07a92e28221d89c3ad2f155dc6d5e8"
+  },
+  {
+    "requested": "Rune Mysteries",
+    "title": "Rune Mysteries",
+    "revision": 15390926,
+    "timestamp": "2026-11-03T11:34:12Z",
+    "url": "https://oldschool.runescape.wiki/w/Rune_Mysteries",
+    "cacheFile": "wiki-71e10837a7c2b6a6.wiki",
+    "bytes": 6009,
+    "sha256": "48c353f4bd87a6a36c5fec769486909cd9384348d2ee89fc1b78d86b0a118df7"
+  },
+  {
+    "requested": "Dragon Slayer I",
+    "title": "Dragon Slayer I",
+    "revision": 15392151,
+    "timestamp": "2026-11-03T16:02:29Z",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_Slayer_I",
+    "cacheFile": "wiki-366aa5fde7e4f0a1.wiki",
+    "bytes": 30023,
+    "sha256": "450d673bc27dae62cd2095f055dbf26dfdcae96505516b83b6629e67a0775804"
+  },
+  {
+    "requested": "The Corsair Curse",
+    "title": "The Corsair Curse",
+    "revision": 15393806,
+    "timestamp": "2026-11-04T13:43:19Z",
+    "url": "https://oldschool.runescape.wiki/w/The_Corsair_Curse",
+    "cacheFile": "wiki-d78ccb10368338d3.wiki",
+    "bytes": 13931,
+    "sha256": "ccb49d8919d02bebefa2fe2b51c3140df4e0e578b0d964b2a1bcb8674b071f86"
+  },
+  {
+    "requested": "Below Ice Mountain",
+    "title": "Below Ice Mountain",
+    "revision": 15394096,
+    "timestamp": "2026-11-04T19:48:12Z",
+    "url": "https://oldschool.runescape.wiki/w/Below_Ice_Mountain",
+    "cacheFile": "wiki-affa9094a20b6ee0.wiki",
+    "bytes": 11796,
+    "sha256": "e35177c3659f9ccbef402bfddef3955827d0d6f750e391c72dbd81745acd64cd"
+  },
+  {
+    "requested": "Corsair Cove Resource Area",
+    "title": "Corsair Cove Resource Area",
+    "revision": 15369015,
+    "timestamp": "2026-10-09T01:37:24Z",
+    "url": "https://oldschool.runescape.wiki/w/Corsair_Cove_Resource_Area",
+    "cacheFile": "wiki-982213f4dfe1e5fe.wiki",
+    "bytes": 3164,
+    "sha256": "a8c23df5401d305267c0711bf39745ed9c17100acaa44f1effefaf8440350846"
+  },
+  {
+    "requested": "Ruins of Camdozaal",
+    "title": "Ruins of Camdozaal",
+    "revision": 15337666,
+    "timestamp": "2026-09-09T15:45:24Z",
+    "url": "https://oldschool.runescape.wiki/w/Ruins_of_Camdozaal",
+    "cacheFile": "wiki-1cd677de8a8eb17b.wiki",
+    "bytes": 12923,
+    "sha256": "ab443a6587f24d1cb91cb257d173b9758c1d769b7618ba38e111917aa4b28175"
+  },
+  {
+    "requested": "Air Altar",
+    "title": "Air Altar",
+    "revision": 14997710,
+    "timestamp": "2025-10-01T19:05:59Z",
+    "url": "https://oldschool.runescape.wiki/w/Air_Altar",
+    "cacheFile": "wiki-33d3a7459a85a5e9.wiki",
+    "bytes": 3866,
+    "sha256": "713f4848e4c5503343038dd93ae89721ce5e9630e873e9f55bb222c42dee7a78"
+  },
+  {
+    "requested": "Mind Altar",
+    "title": "Mind Altar",
+    "revision": 15143887,
+    "timestamp": "2026-03-07T09:40:02Z",
+    "url": "https://oldschool.runescape.wiki/w/Mind_Altar",
+    "cacheFile": "wiki-87493f8e9fcdcfd9.wiki",
+    "bytes": 3011,
+    "sha256": "49cfd60daba59df7705cd1c40240c755160a7a828a4d21e6df43bd66ee4f1cfd"
+  },
+  {
+    "requested": "Water Altar",
+    "title": "Water Altar",
+    "revision": 15231752,
+    "timestamp": "2026-06-11T06:15:32Z",
+    "url": "https://oldschool.runescape.wiki/w/Water_Altar",
+    "cacheFile": "wiki-0bd06f0ca2afabe3.wiki",
+    "bytes": 3654,
+    "sha256": "2dd368dfbff74d29f9ebb2f753a32be1993b1e6d1e4da3bb9bac13e3e8bb93b7"
+  },
+  {
+    "requested": "Earth Altar",
+    "title": "Earth Altar",
+    "revision": 14925024,
+    "timestamp": "2025-06-24T16:28:23Z",
+    "url": "https://oldschool.runescape.wiki/w/Earth_Altar",
+    "cacheFile": "wiki-a0a937c869e4095c.wiki",
+    "bytes": 3709,
+    "sha256": "27832e7d2d4de973cad9d92ea1ea1cd7531ca26db93917ad49df6ec1f726d30f"
+  },
+  {
+    "requested": "Fire Altar",
+    "title": "Fire Altar",
+    "revision": 14925023,
+    "timestamp": "2025-06-24T16:28:09Z",
+    "url": "https://oldschool.runescape.wiki/w/Fire_Altar",
+    "cacheFile": "wiki-85bfc0622134db81.wiki",
+    "bytes": 3935,
+    "sha256": "a8d379a6751c07afb0caef00cb8178b5240d8226e06c0d97a72def64a2e08919"
+  },
+  {
+    "requested": "Body Altar",
+    "title": "Body Altar",
+    "revision": 15123587,
+    "timestamp": "2026-02-08T06:01:18Z",
+    "url": "https://oldschool.runescape.wiki/w/Body_Altar",
+    "cacheFile": "wiki-088308169b6630d7.wiki",
+    "bytes": 3735,
+    "sha256": "c725c1b13606ff029c953125604248fe58eb20bf4d40713db000b458ae57ea5a"
+  },
+  {
+    "requested": "Rune essence mine",
+    "title": "Rune essence mine",
+    "revision": 15366104,
+    "timestamp": "2026-10-05T21:02:17Z",
+    "url": "https://oldschool.runescape.wiki/w/Rune_essence_mine",
+    "cacheFile": "wiki-d59deb71fa0499fd.wiki",
+    "bytes": 8068,
+    "sha256": "f56799fae7722a4e570586bc64c51aced58b53f944095b7e851943fcc0ecd3d1"
+  },
+  {
+    "requested": "Leather",
+    "title": "Leather",
+    "revision": 15183765,
+    "timestamp": "2026-04-22T02:57:05Z",
+    "url": "https://oldschool.runescape.wiki/w/Leather",
+    "cacheFile": "wiki-e8e775159a57aaaf.wiki",
+    "bytes": 6341,
+    "sha256": "385e6eb5455a2859ed0e276333596c5a5a09ab75d570df019f7a7fd65dedbf70"
+  },
+  {
+    "requested": "Leather armour",
+    "title": "Leather armour",
+    "revision": 14763066,
+    "timestamp": "2024-10-06T21:08:07Z",
+    "url": "https://oldschool.runescape.wiki/w/Leather_armour",
+    "cacheFile": "wiki-e37b7451d2312671.wiki",
+    "bytes": 1188,
+    "sha256": "e796e2a5eb6591def491c604115c9c43b7c8c97115169d16cd43df7e0e114e3f"
+  },
+  {
+    "requested": "Tanning",
+    "title": "Tanner",
+    "revision": 15317776,
+    "timestamp": "2026-08-24T05:19:25Z",
+    "url": "https://oldschool.runescape.wiki/w/Tanner",
+    "cacheFile": "wiki-cae857a6b10d21cf.wiki",
+    "bytes": 8848,
+    "sha256": "b09c32d2174f6d6e51717ffba31844eb8c4cda45e04225dc1c80d4dbeb0754a3"
+  },
+  {
+    "requested": "Gem",
+    "title": "Gems",
+    "revision": 15355199,
+    "timestamp": "2026-09-24T06:14:28Z",
+    "url": "https://oldschool.runescape.wiki/w/Gems",
+    "cacheFile": "wiki-5108a0f0dc3622b2.wiki",
+    "bytes": 4559,
+    "sha256": "c2aa0a168f1391c94a1d8e4fe4fafcad831399942b8ad27765b2bb9c0789a47f"
+  },
+  {
+    "requested": "Gold bar",
+    "title": "Gold bar",
+    "revision": 15390082,
+    "timestamp": "2026-11-02T18:43:20Z",
+    "url": "https://oldschool.runescape.wiki/w/Gold_bar",
+    "cacheFile": "wiki-9eb9fd0884469ec7.wiki",
+    "bytes": 5800,
+    "sha256": "206db2c65310ea3d89ec5afc7803df5c3df3698d40b4cde32a98e59f677cf9b6"
+  },
+  {
+    "requested": "Smithing",
+    "title": "Smithing",
+    "revision": 15391758,
+    "timestamp": "2026-11-03T14:40:42Z",
+    "url": "https://oldschool.runescape.wiki/w/Smithing",
+    "cacheFile": "wiki-8eecc11bd6779b21.wiki",
+    "bytes": 29526,
+    "sha256": "aedcfc73da3363fa788b40018811a734e207cd42093f3164fc62da449f9a604b"
+  },
+  {
+    "requested": "Anvil",
+    "title": "Anvil",
+    "revision": 15390123,
+    "timestamp": "2026-11-02T20:03:57Z",
+    "url": "https://oldschool.runescape.wiki/w/Anvil",
+    "cacheFile": "wiki-297fa03ced0b0de4.wiki",
+    "bytes": 23598,
+    "sha256": "f59aa06bc51f10b4d838f813211a5aacce4f3661f425db123e0323792ff03d01"
+  },
+  {
+    "requested": "Furnace",
+    "title": "Furnace",
+    "revision": 15387809,
+    "timestamp": "2026-11-01T11:52:10Z",
+    "url": "https://oldschool.runescape.wiki/w/Furnace",
+    "cacheFile": "wiki-1c875539a5a72c9c.wiki",
+    "bytes": 22489,
+    "sha256": "0113a7e404fc7d0b1fff956d50803b934d2c9a3f38c9154cf1611b65d7ce0508"
+  },
+  {
+    "requested": "Bronze bar",
+    "title": "Bronze bar",
+    "revision": 15315107,
+    "timestamp": "2026-08-21T04:18:17Z",
+    "url": "https://oldschool.runescape.wiki/w/Bronze_bar",
+    "cacheFile": "wiki-228da9847c4e014d.wiki",
+    "bytes": 3177,
+    "sha256": "722c1841621c30fc066dc6c66c354e5e0734761bb683e2b36046b6063392174e"
+  },
+  {
+    "requested": "Steel bar",
+    "title": "Steel bar",
+    "revision": 15315116,
+    "timestamp": "2026-08-21T04:19:09Z",
+    "url": "https://oldschool.runescape.wiki/w/Steel_bar",
+    "cacheFile": "wiki-f32efc41e17a706a.wiki",
+    "bytes": 3579,
+    "sha256": "89e819d78b28e0673deb6a62ca4be1ef4149021bab0cdaed73673b7b720aebb9"
+  },
+  {
+    "requested": "Iron ore",
+    "title": "Iron ore",
+    "revision": 15182636,
+    "timestamp": "2026-04-22T02:45:08Z",
+    "url": "https://oldschool.runescape.wiki/w/Iron_ore",
+    "cacheFile": "wiki-3753f83e5b31cdfe.wiki",
+    "bytes": 1566,
+    "sha256": "f1a01dc0e7d8e62bdf67f6628f4cdbc8222074c6d8713ce3392307b209dab608"
+  },
+  {
+    "requested": "Coal",
+    "title": "Coal",
+    "revision": 15277212,
+    "timestamp": "2026-07-28T10:28:44Z",
+    "url": "https://oldschool.runescape.wiki/w/Coal",
+    "cacheFile": "wiki-4cc1d6e9f8574bb5.wiki",
+    "bytes": 6187,
+    "sha256": "1290556e2bf06303acf03a9486fffe389d4574193e0a509b9f341ca0d90f0ec9"
+  },
+  {
+    "requested": "Fishing spot",
+    "title": "Fishing spots",
+    "revision": 15396235,
+    "timestamp": "2026-11-07T16:14:56Z",
+    "url": "https://oldschool.runescape.wiki/w/Fishing_spots",
+    "cacheFile": "wiki-6601bb5b24f5a38b.wiki",
+    "bytes": 21405,
+    "sha256": "0364040b7dd2fb0634eac049699c3066e7ea79b2acc1ddeac1a18db8ff3f1edd"
+  },
+  {
+    "requested": "Fly fishing rod",
+    "title": "Fly fishing rod",
+    "revision": 15183356,
+    "timestamp": "2026-04-22T02:53:26Z",
+    "url": "https://oldschool.runescape.wiki/w/Fly_fishing_rod",
+    "cacheFile": "wiki-337441cafeddd7ae.wiki",
+    "bytes": 3228,
+    "sha256": "77233459bb8aba217f9248f34a8abc3f18905f92de12034d5ae1e3c518f3c32d"
+  },
+  {
+    "requested": "Willow tree",
+    "title": "Willow tree",
+    "revision": 15302289,
+    "timestamp": "2026-08-15T21:33:37Z",
+    "url": "https://oldschool.runescape.wiki/w/Willow_tree",
+    "cacheFile": "wiki-16dc84c291ab91a8.wiki",
+    "bytes": 20645,
+    "sha256": "43421e63f0ec6e44abeaee0f2092fc01db98a68ccf3270b5fe96b90408f8bdd3"
+  },
+  {
+    "requested": "Maple tree",
+    "title": "Maple tree",
+    "revision": 15344069,
+    "timestamp": "2026-09-15T16:02:09Z",
+    "url": "https://oldschool.runescape.wiki/w/Maple_tree",
+    "cacheFile": "wiki-6bca7f78e7d593b3.wiki",
+    "bytes": 16034,
+    "sha256": "003708213b0273e0e94f0e6aa6589897ecf0e6c7151af1a6a58a47ae14ace7e9"
+  },
+  {
+    "requested": "Jug of wine",
+    "title": "Jug of wine",
+    "revision": 15395989,
+    "timestamp": "2026-11-07T03:06:40Z",
+    "url": "https://oldschool.runescape.wiki/w/Jug_of_wine",
+    "cacheFile": "wiki-ab42aee5b872db08.wiki",
+    "bytes": 7246,
+    "sha256": "62996c4a568f99268e8424248ae335faf515d51c32fdc9e66c0a11f5b2fb7a1e"
+  },
+  {
+    "requested": "Hill Giant (Giants' Plateau)",
+    "title": "Hill Giant",
+    "revision": 15362162,
+    "timestamp": "2026-10-03T12:53:13Z",
+    "url": "https://oldschool.runescape.wiki/w/Hill_Giant",
+    "cacheFile": "wiki-c79e64dc0c258acb.wiki",
+    "bytes": 18335,
+    "sha256": "7bc10d922863be26f38cc1b5623e31db97db974f34cb4f5198572f96f7dce86a"
+  },
+  {
+    "requested": "Giant frog",
+    "title": "Giant frog",
+    "revision": 15353449,
+    "timestamp": "2026-09-23T00:07:12Z",
+    "url": "https://oldschool.runescape.wiki/w/Giant_frog",
+    "cacheFile": "wiki-9e3bd2769194e216.wiki",
+    "bytes": 5219,
+    "sha256": "03b3c5b49a6cfb13c88ddfc3ac41435da85d055ac4f75a9d4f5b23826e68de9b"
+  },
+  {
+    "requested": "Big bones",
+    "title": "Big bones",
+    "revision": 15389725,
+    "timestamp": "2026-11-02T10:17:28Z",
+    "url": "https://oldschool.runescape.wiki/w/Big_bones",
+    "cacheFile": "wiki-9a1db553528244e4.wiki",
+    "bytes": 4070,
+    "sha256": "89da9450be7cf8b0237439f1e7bbcd4824dacd50aa4620153f81e59b31a98189"
+  },
+  {
+    "requested": "Obor",
+    "title": "Obor",
+    "revision": 15383989,
+    "timestamp": "2026-10-27T18:15:42Z",
+    "url": "https://oldschool.runescape.wiki/w/Obor",
+    "cacheFile": "wiki-d28b34b1183674ce.wiki",
+    "bytes": 15697,
+    "sha256": "1923449e9c829506e677fd7a98bb0c1366cb6aed2cdf2a39ba4d01b6d76a84cb"
+  },
+  {
+    "requested": "Bryophyta",
+    "title": "Bryophyta",
+    "revision": 15392719,
+    "timestamp": "2026-11-03T19:27:38Z",
+    "url": "https://oldschool.runescape.wiki/w/Bryophyta",
+    "cacheFile": "wiki-57f8d8eb23e7ad03.wiki",
+    "bytes": 17470,
+    "sha256": "0981461bb188d6124dc89799e1638497384899721ce3b9d7b410d2f630fca8e7"
+  },
+  {
+    "requested": "Free-to-play Ironman guide",
+    "title": "Free-to-play Ironman guide",
+    "revision": 15395747,
+    "timestamp": "2026-11-06T20:24:52Z",
+    "url": "https://oldschool.runescape.wiki/w/Free-to-play_Ironman_guide",
+    "cacheFile": "wiki-0ebad846f282d105.wiki",
+    "bytes": 168966,
+    "sha256": "3cd8e53ebce035df232670ec0b1ee35f98cbbb18e6afa8bee39fb52f0a87da7f"
+  }
+]

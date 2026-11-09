@@ -1,0 +1,72 @@
+[
+  {
+    "file": "Game Jam V - Locking inventory slots in bank.mp4",
+    "source": "https://oldschool.runescape.wiki/w/File:Game_Jam_V_-_Locking_inventory_slots_in_bank.mp4",
+    "download": "https://oldschool.runescape.wiki/images/Game_Jam_V_-_Locking_inventory_slots_in_bank.mp4?67647",
+    "bytes": 1115064,
+    "sha256": "063e2ab01fd3f1f0211c2850441eb3e5cbe489674950093d13ea8568f857c3f3",
+    "clipLabel": "bank",
+    "activity": "bank interface",
+    "context": "development demonstration"
+  },
+  {
+    "file": "Barbarian Gathering - Woodcutting.webm",
+    "source": "https://oldschool.runescape.wiki/w/File:Barbarian_Gathering_-_Woodcutting.webm",
+    "download": "https://oldschool.runescape.wiki/images/Barbarian_Gathering_-_Woodcutting.webm?5ed90",
+    "bytes": 358917,
+    "sha256": "553803bd47440216d6963578e7437f87e428882e126931c491c2e18746b329ae",
+    "clipLabel": "world",
+    "activity": "woodcutting",
+    "context": "member activity example"
+  },
+  {
+    "file": "Barbarian Gathering - Mining.webm",
+    "source": "https://oldschool.runescape.wiki/w/File:Barbarian_Gathering_-_Mining.webm",
+    "download": "https://oldschool.runescape.wiki/images/Barbarian_Gathering_-_Mining.webm?f2621",
+    "bytes": 280555,
+    "sha256": "3be5249b4c571590487014d0f58489f39c9253ca7e8cdf93fcb5d19f73d8f152",
+    "clipLabel": "world",
+    "activity": "mining",
+    "context": "member activity example"
+  },
+  {
+    "file": "Barbarian Gathering - Fishing.webm",
+    "source": "https://oldschool.runescape.wiki/w/File:Barbarian_Gathering_-_Fishing.webm",
+    "download": "https://oldschool.runescape.wiki/images/Barbarian_Gathering_-_Fishing.webm?c0fd2",
+    "bytes": 600104,
+    "sha256": "85e2d9ee2d138901579866e691ecd8611ef9a8e4bc4380aa0f4164104beba9d2",
+    "clipLabel": "world",
+    "activity": "fishing",
+    "context": "member activity example"
+  },
+  {
+    "file": "Bank Tags, Trouver System Rework & More! (2).mp4",
+    "source": "https://oldschool.runescape.wiki/w/File:Bank_Tags,_Trouver_System_Rework_%26_More!_(2).mp4",
+    "download": "https://oldschool.runescape.wiki/images/Bank_Tags%2C_Trouver_System_Rework_%26_More%21_%282%29.mp4?11a97",
+    "bytes": 10315844,
+    "sha256": "91572aa4efebcfc4c6ae30c7d05de88850cae5dd9fb9023eecb097e13d5ffe2e",
+    "clipLabel": "bank",
+    "activity": "bank tags",
+    "context": "development demonstration"
+  },
+  {
+    "file": "Momentum Example.mp4",
+    "source": "https://oldschool.runescape.wiki/w/File:Momentum_Example.mp4",
+    "download": "https://oldschool.runescape.wiki/images/Momentum_Example.mp4?877bf",
+    "bytes": 395127,
+    "sha256": "a6a44aebc97d92f8325732120f863fd3b848cd8102e1713320d36892bee2bca4",
+    "clipLabel": "world",
+    "activity": "movement",
+    "context": "development demonstration"
+  },
+  {
+    "file": "OSRS Ironman Bank Video.mp4",
+    "source": "https://archive.org/details/youtube-qGSnxFsEE5k",
+    "download": "https://archive.org/download/youtube-qGSnxFsEE5k/qGSnxFsEE5k.mp4",
+    "bytes": 26778365,
+    "sha256": "e10d7de34c8a6d359fe6ea17518a08d82b23cac3711f2684477f1ef61760c802",
+    "clipLabel": "bank",
+    "activity": "Ironman bank tour",
+    "context": "public player footage; clip-level label, not an action trace"
+  }
+]

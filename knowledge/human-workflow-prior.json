@@ -1,0 +1,139 @@
+{
+  "dataset": "OpenAI VPT contractor play, Minecraft",
+  "datasetSource": "https://github.com/openai/Video-Pre-Training#contractor-demonstrations",
+  "recordings": [
+    {
+      "source": "https://openaipublic.blob.core.windows.net/minecraft-rl/data/7.6/cheeky-cornflower-setter-0b25223b9c36-20220108-132233.jsonl",
+      "sha256": "f95985e394598143931a3faa589b0b19520179886871a80e4cd2f1df63ad6d73",
+      "windows": 300,
+      "phaseTransitions": {
+        "work:idle": 7,
+        "travel:work": 9,
+        "work:work": 100,
+        "work:travel": 12,
+        "travel:idle": 16,
+        "inspect:idle": 5,
+        "travel:travel": 44,
+        "inspect:inspect": 18,
+        "work:interface": 1,
+        "inspect:travel": 2,
+        "travel:inspect": 2,
+        "work:inspect": 2,
+        "inspect:work": 1
+      },
+      "workWindows": 123,
+      "transitions": 219,
+      "continuations": 162,
+      "inventoryChecks": 4
+    },
+    {
+      "source": "https://openaipublic.blob.core.windows.net/minecraft-rl/data/7.2/Player69-ee57f91f0d02-20211122-150103.jsonl",
+      "sha256": "5e8a58194c03ab7ed783adde98d2ec8508dd023b46dc3c2151c055e9d08f2114",
+      "windows": 21,
+      "phaseTransitions": {
+        "work:idle": 1,
+        "travel:travel": 16,
+        "travel:idle": 1
+      },
+      "workWindows": 1,
+      "transitions": 18,
+      "continuations": 16,
+      "inventoryChecks": 0
+    },
+    {
+      "source": "https://openaipublic.blob.core.windows.net/minecraft-rl/data/7.2/Player69-f153ac423f61-20211122-145604.jsonl",
+      "sha256": "76c9454c30739f1931cba3f8ac6caa9084516dc6067acae4e58ddac7ff5fc200",
+      "windows": 260,
+      "phaseTransitions": {
+        "travel:travel": 57,
+        "travel:idle": 9,
+        "work:work": 91,
+        "work:travel": 11,
+        "travel:work": 11,
+        "work:idle": 6,
+        "inspect:inspect": 5,
+        "inspect:idle": 2,
+        "work:interface": 1
+      },
+      "workWindows": 109,
+      "transitions": 193,
+      "continuations": 153,
+      "inventoryChecks": 0
+    },
+    {
+      "source": "https://openaipublic.blob.core.windows.net/minecraft-rl/data/7.2/Player271-f153ac423f61-20211123-220527.jsonl",
+      "sha256": "4be30903c4eedc66697407826129bbf4fd19ede75527922cbb25142b8b4c94e9",
+      "windows": 9,
+      "phaseTransitions": {
+        "work:work": 3,
+        "work:travel": 2,
+        "travel:work": 1,
+        "travel:travel": 1
+      },
+      "workWindows": 5,
+      "transitions": 7,
+      "continuations": 4,
+      "inventoryChecks": 0
+    },
+    {
+      "source": "https://openaipublic.blob.core.windows.net/minecraft-rl/data/7.3/Player183-f153ac423f61-20211124-212157.jsonl",
+      "sha256": "e165e29f8ee237a2175ec9a6dc0cecf7cbc21f807cd8ca9185783913eefe1fc4",
+      "windows": 25,
+      "phaseTransitions": {
+        "travel:travel": 15,
+        "travel:work": 2,
+        "work:travel": 2
+      },
+      "workWindows": 2,
+      "transitions": 19,
+      "continuations": 15,
+      "inventoryChecks": 0
+    },
+    {
+      "source": "https://openaipublic.blob.core.windows.net/minecraft-rl/data/7.3/Player252-f153ac423f61-20211130-141310.jsonl",
+      "sha256": "4154e129e7cc681af830393c6dd565611d25ee807193baed0922120777918052",
+      "windows": 35,
+      "phaseTransitions": {
+        "travel:idle": 5,
+        "travel:travel": 16,
+        "travel:work": 1,
+        "work:idle": 2,
+        "work:work": 2
+      },
+      "workWindows": 4,
+      "transitions": 26,
+      "continuations": 18,
+      "inventoryChecks": 0
+    },
+    {
+      "source": "https://openaipublic.blob.core.windows.net/minecraft-rl/data/7.3/Player29-f153ac423f61-20211125-215930.jsonl",
+      "sha256": "487c91747883aa2677210a158f8e6a91d4263e7a9c43e61f284178edc35db7a7",
+      "windows": 32,
+      "phaseTransitions": {
+        "travel:travel": 7,
+        "travel:idle": 1,
+        "travel:work": 5,
+        "work:work": 10,
+        "work:travel": 4,
+        "work:idle": 1
+      },
+      "workWindows": 16,
+      "transitions": 28,
+      "continuations": 17,
+      "inventoryChecks": 0
+    }
+  ],
+  "transitions": 510,
+  "continuationRate": 0.7549019607843137,
+  "inventoryCheckRate": 0.00784313725490196,
+  "evaluation": {
+    "trainRecordings": 5,
+    "heldOutRecordings": 2,
+    "heldOutTransitions": 54,
+    "markovLoss": 0.9571244237759501,
+    "baselineLoss": 1.1449655308364521,
+    "validated": true,
+    "workContinuationRate": 0.7991803278688525
+  },
+  "scope": "Cross-domain, bounded tie-break for workflow continuity. No raw input or timing replay."
+}
